@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["ZBGQ485UXZ.com.trip.score.mobile.app"],
+        "components": [
+          { "/": "/referral/*", "comment": "Invite links" },
+          { "/": "/invite/*", "comment": "Invite links (alias)" },
+          { "/": "/friend/*", "comment": "Friend requests" },
+          { "/": "/club/*", "comment": "Club invites" },
+          { "/": "/trip/*", "comment": "Shared drives" }
+        ]
+      }
+    ]
+  }
+}

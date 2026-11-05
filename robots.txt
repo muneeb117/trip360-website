@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /studio
+Disallow: /referral/
+Disallow: /invite/
+
+Sitemap: https://trip360.site/sitemap.xml

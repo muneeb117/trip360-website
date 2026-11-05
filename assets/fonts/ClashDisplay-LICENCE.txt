@@ -1,0 +1,12 @@
+Clash Display — © Indian Type Foundry (ITF), obtained from Fontshare.
+
+Licensed under the ITF Free Font Licence ("itf_ffl", as reported by the
+Fontshare API for this family): free for personal and commercial use,
+redistributable as part of an application, and not to be sold on its own.
+
+Full terms: https://www.fontshare.com/licenses/itf-ffl
+Family page: https://www.fontshare.com/fonts/clash-display
+
+Files here are the 500/600/700 static weights, downloaded from the Fontshare
+CDN. Only the weights the app actually renders are bundled; the family also
+ships 200/300/400 and a variable face.
