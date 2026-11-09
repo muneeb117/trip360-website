@@ -1,0 +1,630 @@
+{
+ "by_source": [
+  {
+   "source": "playMap",
+   "paywall_views": 4476,
+   "purchases": 120,
+   "conversion_pct": 2.7
+  },
+  {
+   "source": "replay",
+   "paywall_views": 2624,
+   "purchases": 85,
+   "conversion_pct": 3.2
+  },
+  {
+   "source": "reels",
+   "paywall_views": 1852,
+   "purchases": 55,
+   "conversion_pct": 3.0
+  },
+  {
+   "source": "fullHistory",
+   "paywall_views": 1698,
+   "purchases": 39,
+   "conversion_pct": 2.3
+  },
+  {
+   "source": "free_pro_card",
+   "paywall_views": 926,
+   "purchases": 34,
+   "conversion_pct": 3.7
+  },
+  {
+   "source": "you_tab",
+   "paywall_views": 1543,
+   "purchases": 27,
+   "conversion_pct": 1.7
+  },
+  {
+   "source": "detailedStats",
+   "paywall_views": 1234,
+   "purchases": 26,
+   "conversion_pct": 2.1
+  },
+  {
+   "source": "vehicle_customiser",
+   "paywall_views": 617,
+   "purchases": 9,
+   "conversion_pct": 1.5
+  },
+  {
+   "source": "settings",
+   "paywall_views": 463,
+   "purchases": 4,
+   "conversion_pct": 0.9
+  }
+ ],
+ "by_plan": [
+  {
+   "plan": "weekly",
+   "purchases": 239,
+   "revenue_usd": 4571.71
+  },
+  {
+   "plan": "annual",
+   "purchases": 141,
+   "revenue_usd": 5073.36
+  },
+  {
+   "plan": "annual_winback",
+   "purchases": 19,
+   "revenue_usd": 379.81
+  }
+ ],
+ "revenue_usd": 10024.88,
+ "trials_started": 113,
+ "trial_conversions": 33,
+ "cancellations": 52,
+ "refunds": 5,
+ "series": [
+  {
+   "day": "2026-07-19",
+   "purchases": 3,
+   "revenue_usd": 89.92
+  },
+  {
+   "day": "2026-07-20",
+   "purchases": 4,
+   "revenue_usd": 89.92
+  },
+  {
+   "day": "2026-07-21",
+   "purchases": 3,
+   "revenue_usd": 84.93
+  },
+  {
+   "day": "2026-07-22",
+   "purchases": 4,
+   "revenue_usd": 89.92
+  },
+  {
+   "day": "2026-07-23",
+   "purchases": 3,
+   "revenue_usd": 89.92
+  },
+  {
+   "day": "2026-07-24",
+   "purchases": 3,
+   "revenue_usd": 84.93
+  },
+  {
+   "day": "2026-07-25",
+   "purchases": 4,
+   "revenue_usd": 94.91
+  },
+  {
+   "day": "2026-07-26",
+   "purchases": 5,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-07-27",
+   "purchases": 3,
+   "revenue_usd": 84.93
+  },
+  {
+   "day": "2026-07-28",
+   "purchases": 3,
+   "revenue_usd": 89.92
+  },
+  {
+   "day": "2026-07-29",
+   "purchases": 2,
+   "revenue_usd": 54.94
+  },
+  {
+   "day": "2026-07-30",
+   "purchases": 3,
+   "revenue_usd": 89.92
+  },
+  {
+   "day": "2026-07-31",
+   "purchases": 3,
+   "revenue_usd": 84.93
+  },
+  {
+   "day": "2026-08-01",
+   "purchases": 3,
+   "revenue_usd": 94.91
+  },
+  {
+   "day": "2026-08-02",
+   "purchases": 4,
+   "revenue_usd": 99.9
+  },
+  {
+   "day": "2026-08-03",
+   "purchases": 2,
+   "revenue_usd": 59.93
+  },
+  {
+   "day": "2026-08-04",
+   "purchases": 4,
+   "revenue_usd": 94.91
+  },
+  {
+   "day": "2026-08-05",
+   "purchases": 3,
+   "revenue_usd": 89.92
+  },
+  {
+   "day": "2026-08-06",
+   "purchases": 2,
+   "revenue_usd": 59.93
+  },
+  {
+   "day": "2026-08-07",
+   "purchases": 3,
+   "revenue_usd": 89.92
+  },
+  {
+   "day": "2026-08-08",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-08-09",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-08-10",
+   "purchases": 4,
+   "revenue_usd": 94.91
+  },
+  {
+   "day": "2026-08-11",
+   "purchases": 2,
+   "revenue_usd": 59.93
+  },
+  {
+   "day": "2026-08-12",
+   "purchases": 4,
+   "revenue_usd": 94.91
+  },
+  {
+   "day": "2026-08-13",
+   "purchases": 3,
+   "revenue_usd": 89.92
+  },
+  {
+   "day": "2026-08-14",
+   "purchases": 4,
+   "revenue_usd": 94.91
+  },
+  {
+   "day": "2026-08-15",
+   "purchases": 5,
+   "revenue_usd": 109.88
+  },
+  {
+   "day": "2026-08-16",
+   "purchases": 6,
+   "revenue_usd": 139.87
+  },
+  {
+   "day": "2026-08-17",
+   "purchases": 3,
+   "revenue_usd": 94.91
+  },
+  {
+   "day": "2026-08-18",
+   "purchases": 3,
+   "revenue_usd": 89.92
+  },
+  {
+   "day": "2026-08-19",
+   "purchases": 3,
+   "revenue_usd": 94.91
+  },
+  {
+   "day": "2026-08-20",
+   "purchases": 4,
+   "revenue_usd": 94.91
+  },
+  {
+   "day": "2026-08-21",
+   "purchases": 4,
+   "revenue_usd": 99.9
+  },
+  {
+   "day": "2026-08-22",
+   "purchases": 5,
+   "revenue_usd": 109.88
+  },
+  {
+   "day": "2026-08-23",
+   "purchases": 3,
+   "revenue_usd": 99.9
+  },
+  {
+   "day": "2026-08-24",
+   "purchases": 4,
+   "revenue_usd": 99.9
+  },
+  {
+   "day": "2026-08-25",
+   "purchases": 3,
+   "revenue_usd": 94.91
+  },
+  {
+   "day": "2026-08-26",
+   "purchases": 3,
+   "revenue_usd": 94.91
+  },
+  {
+   "day": "2026-08-27",
+   "purchases": 5,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-08-28",
+   "purchases": 3,
+   "revenue_usd": 94.91
+  },
+  {
+   "day": "2026-08-29",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-08-30",
+   "purchases": 4,
+   "revenue_usd": 109.88
+  },
+  {
+   "day": "2026-08-31",
+   "purchases": 3,
+   "revenue_usd": 99.9
+  },
+  {
+   "day": "2026-09-01",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-09-02",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-09-03",
+   "purchases": 4,
+   "revenue_usd": 99.9
+  },
+  {
+   "day": "2026-09-04",
+   "purchases": 4,
+   "revenue_usd": 99.9
+  },
+  {
+   "day": "2026-09-05",
+   "purchases": 4,
+   "revenue_usd": 109.88
+  },
+  {
+   "day": "2026-09-06",
+   "purchases": 6,
+   "revenue_usd": 149.85
+  },
+  {
+   "day": "2026-09-07",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-09-08",
+   "purchases": 4,
+   "revenue_usd": 99.9
+  },
+  {
+   "day": "2026-09-09",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-09-10",
+   "purchases": 3,
+   "revenue_usd": 99.9
+  },
+  {
+   "day": "2026-09-11",
+   "purchases": 5,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-09-12",
+   "purchases": 7,
+   "revenue_usd": 154.84
+  },
+  {
+   "day": "2026-09-13",
+   "purchases": 5,
+   "revenue_usd": 114.87
+  },
+  {
+   "day": "2026-09-14",
+   "purchases": 5,
+   "revenue_usd": 109.88
+  },
+  {
+   "day": "2026-09-15",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-09-16",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-09-17",
+   "purchases": 5,
+   "revenue_usd": 109.88
+  },
+  {
+   "day": "2026-09-18",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-09-19",
+   "purchases": 5,
+   "revenue_usd": 119.86
+  },
+  {
+   "day": "2026-09-20",
+   "purchases": 7,
+   "revenue_usd": 154.84
+  },
+  {
+   "day": "2026-09-21",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-09-22",
+   "purchases": 6,
+   "revenue_usd": 144.86
+  },
+  {
+   "day": "2026-09-23",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-09-24",
+   "purchases": 5,
+   "revenue_usd": 114.87
+  },
+  {
+   "day": "2026-09-25",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-09-26",
+   "purchases": 7,
+   "revenue_usd": 154.84
+  },
+  {
+   "day": "2026-09-27",
+   "purchases": 6,
+   "revenue_usd": 154.84
+  },
+  {
+   "day": "2026-09-28",
+   "purchases": 4,
+   "revenue_usd": 104.89
+  },
+  {
+   "day": "2026-09-29",
+   "purchases": 6,
+   "revenue_usd": 144.86
+  },
+  {
+   "day": "2026-09-30",
+   "purchases": 6,
+   "revenue_usd": 144.86
+  },
+  {
+   "day": "2026-10-01",
+   "purchases": 6,
+   "revenue_usd": 144.86
+  },
+  {
+   "day": "2026-10-02",
+   "purchases": 5,
+   "revenue_usd": 109.88
+  },
+  {
+   "day": "2026-10-03",
+   "purchases": 6,
+   "revenue_usd": 159.83
+  },
+  {
+   "day": "2026-10-04",
+   "purchases": 4,
+   "revenue_usd": 119.86
+  },
+  {
+   "day": "2026-10-05",
+   "purchases": 6,
+   "revenue_usd": 144.86
+  },
+  {
+   "day": "2026-10-06",
+   "purchases": 4,
+   "revenue_usd": 109.88
+  },
+  {
+   "day": "2026-10-07",
+   "purchases": 5,
+   "revenue_usd": 114.87
+  },
+  {
+   "day": "2026-10-08",
+   "purchases": 8,
+   "revenue_usd": 184.83
+  },
+  {
+   "day": "2026-10-09",
+   "purchases": 6,
+   "revenue_usd": 149.85
+  },
+  {
+   "day": "2026-10-10",
+   "purchases": 9,
+   "revenue_usd": 199.8
+  },
+  {
+   "day": "2026-10-11",
+   "purchases": 7,
+   "revenue_usd": 164.82
+  },
+  {
+   "day": "2026-10-12",
+   "purchases": 9,
+   "revenue_usd": 189.82
+  },
+  {
+   "day": "2026-10-13",
+   "purchases": 7,
+   "revenue_usd": 154.84
+  },
+  {
+   "day": "2026-10-14",
+   "purchases": 7,
+   "revenue_usd": 154.84
+  },
+  {
+   "day": "2026-10-15",
+   "purchases": 5,
+   "revenue_usd": 119.86
+  },
+  {
+   "day": "2026-10-16",
+   "purchases": 7,
+   "revenue_usd": 154.84
+  }
+ ],
+ "recent": [
+  {
+   "at": "2026-10-16T21:22:00.000Z",
+   "type": "INITIAL_PURCHASE",
+   "product_id": "trip360.pro.weekly",
+   "price_usd": 4.99,
+   "user_id": "65aa74dd-0189-43af-a461-5ba8e8a35b0b",
+   "username": "quietkm"
+  },
+  {
+   "at": "2026-10-10T14:07:00.000Z",
+   "type": "RENEWAL",
+   "product_id": "trip360.pro.annual",
+   "price_usd": 29.99,
+   "user_id": "62ba5332-09fd-425d-ab0d-5e5e2151a0b2",
+   "username": "ringroad"
+  },
+  {
+   "at": "2026-10-08T17:35:00.000Z",
+   "type": "INITIAL_PURCHASE",
+   "product_id": "trip360.pro.weekly",
+   "price_usd": 4.99,
+   "user_id": "134ad24e-9980-4ca1-a119-7065657dbf5e",
+   "username": "coldstart"
+  },
+  {
+   "at": "2026-10-04T05:26:00.000Z",
+   "type": "CANCELLATION",
+   "product_id": "trip360.pro.annual.winback",
+   "price_usd": null,
+   "user_id": "e0b4341c-457b-49b6-af43-815ace7f5bae",
+   "username": "sundaydrive"
+  },
+  {
+   "at": "2026-10-01T18:49:00.000Z",
+   "type": "RENEWAL",
+   "product_id": "trip360.pro.weekly",
+   "price_usd": 4.99,
+   "user_id": "df3c6ecc-3336-4d23-aa18-315cbb3fc6d6",
+   "username": "redlinerae"
+  },
+  {
+   "at": "2026-09-26T11:49:00.000Z",
+   "type": "INITIAL_PURCHASE",
+   "product_id": "trip360.pro.annual",
+   "price_usd": 29.99,
+   "user_id": "40ca0979-0c31-457a-a9b4-68903f6cd580",
+   "username": "apexlina"
+  },
+  {
+   "at": "2026-09-24T09:36:00.000Z",
+   "type": "EXPIRATION",
+   "product_id": "trip360.pro.weekly",
+   "price_usd": null,
+   "user_id": "ab1cce36-e215-4608-a0fd-3d52c1038688",
+   "username": "m25orbit"
+  },
+  {
+   "at": "2026-09-24T01:20:00.000Z",
+   "type": "PRODUCT_CHANGE",
+   "product_id": "trip360.pro.annual.winback",
+   "price_usd": 19.99,
+   "user_id": "bc12fcb3-aa7b-47df-a90e-f11e52283fff",
+   "username": "dunedash"
+  },
+  {
+   "at": "2026-09-22T23:49:00.000Z",
+   "type": "INITIAL_PURCHASE",
+   "product_id": "trip360.pro.weekly",
+   "price_usd": 4.99,
+   "user_id": "3d58ce20-fe80-4793-a0b2-21905baa60b3",
+   "username": "lateshift"
+  },
+  {
+   "at": "2026-09-16T20:19:00.000Z",
+   "type": "BILLING_ISSUE",
+   "product_id": "trip360.pro.annual",
+   "price_usd": null,
+   "user_id": "13ca05f7-945e-4659-a51d-a6abfd2eddac",
+   "username": "bluehour"
+  },
+  {
+   "at": "2026-09-10T13:53:00.000Z",
+   "type": "RENEWAL",
+   "product_id": "trip360.pro.weekly",
+   "price_usd": 4.99,
+   "user_id": "523d9e31-5b8a-4bee-a9be-392d0cffd8b3",
+   "username": "pikestaff"
+  },
+  {
+   "at": "2026-09-09T19:39:00.000Z",
+   "type": "INITIAL_PURCHASE",
+   "product_id": "trip360.pro.annual.winback",
+   "price_usd": 19.99,
+   "user_id": "d6d77053-92bc-4af6-a332-8bea8c4c6904",
+   "username": "northbound"
+  }
+ ]
+}

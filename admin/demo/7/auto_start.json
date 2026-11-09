@@ -1,0 +1,57 @@
+{
+  "range_days": 7,
+  "active_accounts": 33,
+  "reported_accounts": 15,
+  "status": {
+    "monitoring": 9,
+    "permission_denied": 3,
+    "disabled": 2,
+    "passenger_paused": 1
+  },
+  "missing": {
+    "location_always": 2,
+    "motion": 1
+  },
+  "drivers": 22,
+  "auto_drivers": 18,
+  "manual_only_drivers": 4,
+  "drives_auto": 386,
+  "drives_manual": 37,
+  "daily": [
+    {
+      "day": "2026-10-18",
+      "auto": 65,
+      "manual": 8
+    },
+    {
+      "day": "2026-10-19",
+      "auto": 43,
+      "manual": 3
+    },
+    {
+      "day": "2026-10-20",
+      "auto": 74,
+      "manual": 3
+    },
+    {
+      "day": "2026-10-21",
+      "auto": 63,
+      "manual": 7
+    },
+    {
+      "day": "2026-10-22",
+      "auto": 43,
+      "manual": 7
+    },
+    {
+      "day": "2026-10-23",
+      "auto": 53,
+      "manual": 3
+    },
+    {
+      "day": "2026-10-24",
+      "auto": 45,
+      "manual": 6
+    }
+  ]
+}

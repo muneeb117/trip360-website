@@ -1,0 +1,213 @@
+{
+ "screens": [
+  {
+   "screen": "drive",
+   "views": 19645,
+   "users": 2104,
+   "avg_per_user": 9.3
+  },
+  {
+   "screen": "ranks",
+   "views": 7744,
+   "users": 1678,
+   "avg_per_user": 4.6
+  },
+  {
+   "screen": "play",
+   "views": 5211,
+   "users": 1337,
+   "avg_per_user": 3.9
+  },
+  {
+   "screen": "recap",
+   "views": 4957,
+   "users": 1327,
+   "avg_per_user": 3.7
+  },
+  {
+   "screen": "you",
+   "views": 4741,
+   "users": 1519,
+   "avg_per_user": 3.1
+  },
+  {
+   "screen": "all_drives",
+   "views": 1815,
+   "users": 933,
+   "avg_per_user": 1.9
+  },
+  {
+   "screen": "replay",
+   "views": 759,
+   "users": 573,
+   "avg_per_user": 1.3
+  },
+  {
+   "screen": "paywall",
+   "views": 672,
+   "users": 611,
+   "avg_per_user": 1.1
+  },
+  {
+   "screen": "settings",
+   "views": 427,
+   "users": 499,
+   "avg_per_user": 0.9
+  },
+  {
+   "screen": "friends",
+   "views": 314,
+   "users": 418,
+   "avg_per_user": 0.8
+  },
+  {
+   "screen": "achievements",
+   "views": 237,
+   "users": 363,
+   "avg_per_user": 0.7
+  },
+  {
+   "screen": "reel_editor",
+   "views": 183,
+   "users": 291,
+   "avg_per_user": 0.6
+  },
+  {
+   "screen": "vehicle_customiser",
+   "views": 163,
+   "users": 305,
+   "avg_per_user": 0.5
+  },
+  {
+   "screen": "notifications",
+   "views": 132,
+   "users": 278,
+   "avg_per_user": 0.5
+  },
+  {
+   "screen": "onboarding",
+   "views": 55,
+   "users": 212,
+   "avg_per_user": 0.3
+  },
+  {
+   "screen": "clubs",
+   "views": 52,
+   "users": 168,
+   "avg_per_user": 0.3
+  }
+ ],
+ "features": [
+  {
+   "name": "drive_saved",
+   "count": 10519,
+   "users": 1355
+  },
+  {
+   "name": "ranks_viewed",
+   "count": 4555,
+   "users": 1434
+  },
+  {
+   "name": "recap_opened",
+   "count": 3874,
+   "users": 1274
+  },
+  {
+   "name": "play_viewed",
+   "count": 3728,
+   "users": 1235
+  },
+  {
+   "name": "feature_locked",
+   "count": 1659,
+   "users": 694
+  },
+  {
+   "name": "replay_opened",
+   "count": 1491,
+   "users": 519
+  },
+  {
+   "name": "notification_opened",
+   "count": 673,
+   "users": 220
+  },
+  {
+   "name": "reel_started",
+   "count": 595,
+   "users": 219
+  },
+  {
+   "name": "share_card_shared",
+   "count": 484,
+   "users": 190
+  },
+  {
+   "name": "reel_exported",
+   "count": 311,
+   "users": 131
+  },
+  {
+   "name": "king_explained",
+   "count": 244,
+   "users": 120
+  },
+  {
+   "name": "invite_shared",
+   "count": 199,
+   "users": 87
+  },
+  {
+   "name": "friend_added",
+   "count": 137,
+   "users": 56
+  },
+  {
+   "name": "deep_link_opened",
+   "count": 99,
+   "users": 44
+  },
+  {
+   "name": "club_joined",
+   "count": 60,
+   "users": 27
+  }
+ ],
+ "platforms": [
+  {
+   "platform": "ios",
+   "users": 2296
+  },
+  {
+   "platform": "android",
+   "users": 71
+  }
+ ],
+ "versions": [
+  {
+   "app_version": "1.0.34",
+   "users": 189
+  },
+  {
+   "app_version": "1.0.33",
+   "users": 1112
+  },
+  {
+   "app_version": "1.0.32",
+   "users": 781
+  },
+  {
+   "app_version": "1.0.31",
+   "users": 189
+  },
+  {
+   "app_version": "1.0.30",
+   "users": 71
+  },
+  {
+   "app_version": "1.0.29",
+   "users": 23
+  }
+ ]
+}

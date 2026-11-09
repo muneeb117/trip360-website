@@ -1,0 +1,1886 @@
+{
+ "codes_shared": 4239,
+ "redeemed": 931,
+ "friends_drove": 633,
+ "rewards_earned": 614,
+ "friend_requests": 8054,
+ "friends_added": 5086,
+ "clubs_joined": 1314,
+ "top_inviters": [
+  {
+   "user_id": "65aa74dd-0189-43af-a461-5ba8e8a35b0b",
+   "username": "quietkm",
+   "joined": 83,
+   "drove": 59
+  },
+  {
+   "user_id": "40ca0979-0c31-457a-a9b4-68903f6cd580",
+   "username": "apexlina",
+   "joined": 51,
+   "drove": 36
+  },
+  {
+   "user_id": "523d9e31-5b8a-4bee-a9be-392d0cffd8b3",
+   "username": "pikestaff",
+   "joined": 38,
+   "drove": 27
+  },
+  {
+   "user_id": "681be464-db0d-4e82-ac34-96d95c9b3897",
+   "username": "slipstream",
+   "joined": 31,
+   "drove": 22
+  },
+  {
+   "user_id": "a6e3db59-4a11-415c-a0cd-27d518202c88",
+   "username": "nightowl_gt",
+   "joined": 27,
+   "drove": 19
+  },
+  {
+   "user_id": "62ba5332-09fd-425d-ab0d-5e5e2151a0b2",
+   "username": "ringroad",
+   "joined": 23,
+   "drove": 16
+  },
+  {
+   "user_id": "ab1cce36-e215-4608-a0fd-3d52c1038688",
+   "username": "m25orbit",
+   "joined": 21,
+   "drove": 15
+  },
+  {
+   "user_id": "d6d77053-92bc-4af6-a332-8bea8c4c6904",
+   "username": "northbound",
+   "joined": 19,
+   "drove": 13
+  }
+ ],
+ "series": [
+  {
+   "day": "2025-10-17",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-18",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-19",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-20",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-21",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-22",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-23",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-24",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-25",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-26",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-27",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-28",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-29",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-30",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-10-31",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-01",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-02",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-03",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-04",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-05",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-06",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-07",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-08",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-09",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-10",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-11",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-12",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-13",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-14",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-15",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-16",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-17",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-18",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-19",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-20",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-21",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-22",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-23",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-24",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-25",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-26",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-27",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-28",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-29",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-11-30",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-01",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-02",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-03",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-04",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-05",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-06",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-07",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-08",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-09",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-10",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-11",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-12",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-13",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-14",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-15",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-16",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-17",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-18",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-19",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-20",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-21",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-22",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-23",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-24",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-25",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-26",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-27",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-28",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-29",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-30",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2025-12-31",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-01",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-02",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-03",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-04",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-05",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-06",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-07",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-08",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-09",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-10",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-11",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-12",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-13",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-14",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-15",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-16",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-17",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-18",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-19",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-20",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-21",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-22",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-23",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-24",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-25",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-26",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-27",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-28",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-29",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-30",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-01-31",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-01",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-02",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-03",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-04",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-05",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-06",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-07",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-08",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-09",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-10",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-11",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-12",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-13",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-14",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-15",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-16",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-17",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-18",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-19",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-20",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-21",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-22",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-23",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-24",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-25",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-26",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-27",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-02-28",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-01",
+   "shared": 0,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-02",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-03",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-04",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-05",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-06",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-07",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-08",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-09",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-10",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-11",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-12",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-13",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-14",
+   "shared": 2,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-15",
+   "shared": 2,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-16",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-17",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-18",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-19",
+   "shared": 1,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-20",
+   "shared": 2,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-21",
+   "shared": 2,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-22",
+   "shared": 2,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-23",
+   "shared": 2,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-24",
+   "shared": 2,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-25",
+   "shared": 2,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-26",
+   "shared": 3,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-27",
+   "shared": 2,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-28",
+   "shared": 4,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-29",
+   "shared": 4,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-03-30",
+   "shared": 3,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-03-31",
+   "shared": 3,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-04-01",
+   "shared": 3,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-04-02",
+   "shared": 4,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-03",
+   "shared": 2,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-04-04",
+   "shared": 3,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-04-05",
+   "shared": 5,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-06",
+   "shared": 3,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-04-07",
+   "shared": 3,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-04-08",
+   "shared": 3,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-04-09",
+   "shared": 3,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-04-10",
+   "shared": 4,
+   "redeemed": 0
+  },
+  {
+   "day": "2026-04-11",
+   "shared": 6,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-12",
+   "shared": 7,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-04-13",
+   "shared": 6,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-14",
+   "shared": 6,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-15",
+   "shared": 4,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-16",
+   "shared": 5,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-17",
+   "shared": 5,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-18",
+   "shared": 7,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-19",
+   "shared": 7,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-20",
+   "shared": 6,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-21",
+   "shared": 7,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-22",
+   "shared": 7,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-23",
+   "shared": 7,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-24",
+   "shared": 5,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-25",
+   "shared": 7,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-26",
+   "shared": 6,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-27",
+   "shared": 6,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-28",
+   "shared": 7,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-29",
+   "shared": 6,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-04-30",
+   "shared": 7,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-05-01",
+   "shared": 6,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-05-02",
+   "shared": 9,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-05-03",
+   "shared": 7,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-05-04",
+   "shared": 8,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-05-05",
+   "shared": 9,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-05-06",
+   "shared": 7,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-05-07",
+   "shared": 6,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-05-08",
+   "shared": 9,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-09",
+   "shared": 9,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-10",
+   "shared": 11,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-11",
+   "shared": 9,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-05-12",
+   "shared": 9,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-13",
+   "shared": 10,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-05-14",
+   "shared": 11,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-15",
+   "shared": 7,
+   "redeemed": 1
+  },
+  {
+   "day": "2026-05-16",
+   "shared": 10,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-17",
+   "shared": 11,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-18",
+   "shared": 8,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-19",
+   "shared": 9,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-20",
+   "shared": 9,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-21",
+   "shared": 9,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-22",
+   "shared": 9,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-23",
+   "shared": 15,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-05-24",
+   "shared": 13,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-25",
+   "shared": 13,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-05-26",
+   "shared": 12,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-27",
+   "shared": 12,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-05-28",
+   "shared": 12,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-05-29",
+   "shared": 11,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-30",
+   "shared": 12,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-05-31",
+   "shared": 17,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-06-01",
+   "shared": 14,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-06-02",
+   "shared": 13,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-06-03",
+   "shared": 10,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-06-04",
+   "shared": 11,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-06-05",
+   "shared": 13,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-06-06",
+   "shared": 13,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-06-07",
+   "shared": 14,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-06-08",
+   "shared": 12,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-06-09",
+   "shared": 11,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-06-10",
+   "shared": 13,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-06-11",
+   "shared": 16,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-06-12",
+   "shared": 12,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-06-13",
+   "shared": 16,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-06-14",
+   "shared": 21,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-06-15",
+   "shared": 16,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-06-16",
+   "shared": 14,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-06-17",
+   "shared": 12,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-06-18",
+   "shared": 15,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-06-19",
+   "shared": 15,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-06-20",
+   "shared": 18,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-06-21",
+   "shared": 18,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-06-22",
+   "shared": 15,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-06-23",
+   "shared": 15,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-06-24",
+   "shared": 14,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-06-25",
+   "shared": 14,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-06-26",
+   "shared": 18,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-06-27",
+   "shared": 20,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-06-28",
+   "shared": 18,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-06-29",
+   "shared": 13,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-06-30",
+   "shared": 19,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-01",
+   "shared": 13,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-07-02",
+   "shared": 14,
+   "redeemed": 2
+  },
+  {
+   "day": "2026-07-03",
+   "shared": 20,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-07-04",
+   "shared": 26,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-07-05",
+   "shared": 18,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-06",
+   "shared": 16,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-07",
+   "shared": 15,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-08",
+   "shared": 16,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-09",
+   "shared": 17,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-10",
+   "shared": 16,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-07-11",
+   "shared": 22,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-07-12",
+   "shared": 28,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-07-13",
+   "shared": 19,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-14",
+   "shared": 15,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-15",
+   "shared": 23,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-07-16",
+   "shared": 17,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-17",
+   "shared": 21,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-18",
+   "shared": 29,
+   "redeemed": 8
+  },
+  {
+   "day": "2026-07-19",
+   "shared": 23,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-20",
+   "shared": 17,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-21",
+   "shared": 24,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-07-22",
+   "shared": 19,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-07-23",
+   "shared": 20,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-07-24",
+   "shared": 20,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-07-25",
+   "shared": 28,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-07-26",
+   "shared": 31,
+   "redeemed": 8
+  },
+  {
+   "day": "2026-07-27",
+   "shared": 19,
+   "redeemed": 3
+  },
+  {
+   "day": "2026-07-28",
+   "shared": 28,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-07-29",
+   "shared": 20,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-30",
+   "shared": 20,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-07-31",
+   "shared": 25,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-08-01",
+   "shared": 28,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-08-02",
+   "shared": 24,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-08-03",
+   "shared": 25,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-08-04",
+   "shared": 24,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-08-05",
+   "shared": 23,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-08-06",
+   "shared": 25,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-08-07",
+   "shared": 20,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-08-08",
+   "shared": 34,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-08-09",
+   "shared": 35,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-08-10",
+   "shared": 29,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-08-11",
+   "shared": 26,
+   "redeemed": 4
+  },
+  {
+   "day": "2026-08-12",
+   "shared": 30,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-08-13",
+   "shared": 26,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-08-14",
+   "shared": 24,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-08-15",
+   "shared": 30,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-08-16",
+   "shared": 36,
+   "redeemed": 9
+  },
+  {
+   "day": "2026-08-17",
+   "shared": 25,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-08-18",
+   "shared": 23,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-08-19",
+   "shared": 23,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-08-20",
+   "shared": 25,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-08-21",
+   "shared": 30,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-08-22",
+   "shared": 29,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-08-23",
+   "shared": 39,
+   "redeemed": 8
+  },
+  {
+   "day": "2026-08-24",
+   "shared": 27,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-08-25",
+   "shared": 26,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-08-26",
+   "shared": 24,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-08-27",
+   "shared": 33,
+   "redeemed": 8
+  },
+  {
+   "day": "2026-08-28",
+   "shared": 31,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-08-29",
+   "shared": 37,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-08-30",
+   "shared": 45,
+   "redeemed": 12
+  },
+  {
+   "day": "2026-08-31",
+   "shared": 31,
+   "redeemed": 8
+  },
+  {
+   "day": "2026-09-01",
+   "shared": 29,
+   "redeemed": 5
+  },
+  {
+   "day": "2026-09-02",
+   "shared": 35,
+   "redeemed": 8
+  },
+  {
+   "day": "2026-09-03",
+   "shared": 29,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-09-04",
+   "shared": 32,
+   "redeemed": 9
+  },
+  {
+   "day": "2026-09-05",
+   "shared": 43,
+   "redeemed": 11
+  },
+  {
+   "day": "2026-09-06",
+   "shared": 35,
+   "redeemed": 9
+  },
+  {
+   "day": "2026-09-07",
+   "shared": 37,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-09-08",
+   "shared": 33,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-09-09",
+   "shared": 30,
+   "redeemed": 8
+  },
+  {
+   "day": "2026-09-10",
+   "shared": 34,
+   "redeemed": 8
+  },
+  {
+   "day": "2026-09-11",
+   "shared": 37,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-09-12",
+   "shared": 45,
+   "redeemed": 12
+  },
+  {
+   "day": "2026-09-13",
+   "shared": 43,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-09-14",
+   "shared": 32,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-09-15",
+   "shared": 37,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-09-16",
+   "shared": 25,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-09-17",
+   "shared": 42,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-09-18",
+   "shared": 41,
+   "redeemed": 9
+  },
+  {
+   "day": "2026-09-19",
+   "shared": 50,
+   "redeemed": 9
+  },
+  {
+   "day": "2026-09-20",
+   "shared": 38,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-09-21",
+   "shared": 32,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-09-22",
+   "shared": 34,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-09-23",
+   "shared": 29,
+   "redeemed": 8
+  },
+  {
+   "day": "2026-09-24",
+   "shared": 39,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-09-25",
+   "shared": 37,
+   "redeemed": 8
+  },
+  {
+   "day": "2026-09-26",
+   "shared": 34,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-09-27",
+   "shared": 54,
+   "redeemed": 13
+  },
+  {
+   "day": "2026-09-28",
+   "shared": 26,
+   "redeemed": 6
+  },
+  {
+   "day": "2026-09-29",
+   "shared": 40,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-09-30",
+   "shared": 35,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-10-01",
+   "shared": 36,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-10-02",
+   "shared": 35,
+   "redeemed": 9
+  },
+  {
+   "day": "2026-10-03",
+   "shared": 42,
+   "redeemed": 11
+  },
+  {
+   "day": "2026-10-04",
+   "shared": 42,
+   "redeemed": 8
+  },
+  {
+   "day": "2026-10-05",
+   "shared": 39,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-10-06",
+   "shared": 36,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-10-07",
+   "shared": 38,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-10-08",
+   "shared": 42,
+   "redeemed": 9
+  },
+  {
+   "day": "2026-10-09",
+   "shared": 39,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-10-10",
+   "shared": 56,
+   "redeemed": 14
+  },
+  {
+   "day": "2026-10-11",
+   "shared": 49,
+   "redeemed": 11
+  },
+  {
+   "day": "2026-10-12",
+   "shared": 37,
+   "redeemed": 9
+  },
+  {
+   "day": "2026-10-13",
+   "shared": 52,
+   "redeemed": 11
+  },
+  {
+   "day": "2026-10-14",
+   "shared": 47,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-10-15",
+   "shared": 38,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-10-16",
+   "shared": 38,
+   "redeemed": 10
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "errors": 289,
+ "crashes": 17,
+ "affected_users": 260,
+ "top": [
+  {
+   "fingerprint": "0f5709e50ab4e71869174a26c411a783",
+   "kind": "error",
+   "tag": "sync",
+   "message": "SocketException: Failed host lookup (OS Error: nodename nor servname provided, errno = 8)",
+   "count": 89,
+   "users": 28,
+   "first_seen": "2026-10-09T07:40:00.000Z",
+   "last_seen": "2026-10-16T11:53:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32"
+   ]
+  },
+  {
+   "fingerprint": "155c96fe988d7a2bfd8eb3bfa868d2ab",
+   "kind": "error",
+   "tag": "territory",
+   "message": "TerritoryClaimError: claim rejected (409) \u2014 hex already contested in batch #",
+   "count": 46,
+   "users": 15,
+   "first_seen": "2026-10-09T11:40:00.000Z",
+   "last_seen": "2026-10-16T06:47:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32"
+   ]
+  },
+  {
+   "fingerprint": "abd5ebc2bf00530020050cf8fcb40e5e",
+   "kind": "error",
+   "tag": "map_tiles",
+   "message": "ClientException: Connection closed while receiving data",
+   "count": 34,
+   "users": 12,
+   "first_seen": "2026-10-09T07:40:00.000Z",
+   "last_seen": "2026-10-16T19:07:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33"
+   ]
+  },
+  {
+   "fingerprint": "0f8503d393049f38bd445f81cde819c1",
+   "kind": "error",
+   "tag": "auth",
+   "message": "AuthException: refresh token not found",
+   "count": 26,
+   "users": 12,
+   "first_seen": "2026-10-09T02:40:00.000Z",
+   "last_seen": "2026-10-16T20:06:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33"
+   ]
+  },
+  {
+   "fingerprint": "b9113b73c3dc53e7bfa69dcb9d7fbe5e",
+   "kind": "error",
+   "tag": "tracking",
+   "message": "LocationTimeout: no fix within 30 s after auto-start",
+   "count": 20,
+   "users": 9,
+   "first_seen": "2026-10-09T07:40:00.000Z",
+   "last_seen": "2026-10-16T21:14:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32"
+   ]
+  },
+  {
+   "fingerprint": "33f7b274037f3e99ad310b0f8089d003",
+   "kind": "error",
+   "tag": "billing",
+   "message": "PlatformException(PURCHASES_ERROR, The receipt is not valid)",
+   "count": 14,
+   "users": 7,
+   "first_seen": "2026-10-09T06:40:00.000Z",
+   "last_seen": "2026-10-16T10:26:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32"
+   ]
+  },
+  {
+   "fingerprint": "33e08be5495650eaa5c57b5b604fcc19",
+   "kind": "error",
+   "tag": "rankings",
+   "message": "TimeoutException after 0:00:15.000000: Future not completed",
+   "count": 11,
+   "users": 5,
+   "first_seen": "2026-10-09T21:40:00.000Z",
+   "last_seen": "2026-10-16T16:20:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32"
+   ]
+  },
+  {
+   "fingerprint": "a95473ef9bd0e9b575f548a50e6e1e7c",
+   "kind": "error",
+   "tag": "notifications",
+   "message": "FirebaseException: [messaging/unknown] APNS token has not been set yet",
+   "count": 8,
+   "users": 3,
+   "first_seen": "2026-10-09T04:40:00.000Z",
+   "last_seen": "2026-10-16T17:01:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32",
+    "1.0.31"
+   ]
+  },
+  {
+   "fingerprint": "abcfda2c4d496f16950b847e4cd847bb",
+   "kind": "crash",
+   "tag": "reels",
+   "message": "StateError: Bad state: No element \u00b7 reel_scene_builder.dart:212",
+   "count": 5,
+   "users": 2,
+   "first_seen": "2026-10-09T08:40:00.000Z",
+   "last_seen": "2026-10-16T04:03:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33"
+   ]
+  },
+  {
+   "fingerprint": "9181668f9b587528a6622a1a114f8b90",
+   "kind": "crash",
+   "tag": "replay",
+   "message": "RangeError (index): Invalid value: Not in inclusive range 0..#: #",
+   "count": 4,
+   "users": 1,
+   "first_seen": "2026-10-09T12:40:00.000Z",
+   "last_seen": "2026-10-16T18:36:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32",
+    "1.0.31"
+   ]
+  }
+ ],
+ "series": [
+  {
+   "day": "2026-10-10",
+   "errors": 45,
+   "crashes": 3
+  },
+  {
+   "day": "2026-10-11",
+   "errors": 45,
+   "crashes": 1
+  },
+  {
+   "day": "2026-10-12",
+   "errors": 35,
+   "crashes": 2
+  },
+  {
+   "day": "2026-10-13",
+   "errors": 44,
+   "crashes": 3
+  },
+  {
+   "day": "2026-10-14",
+   "errors": 47,
+   "crashes": 3
+  },
+  {
+   "day": "2026-10-15",
+   "errors": 44,
+   "crashes": 3
+  },
+  {
+   "day": "2026-10-16",
+   "errors": 29,
+   "crashes": 2
+  }
+ ]
+}

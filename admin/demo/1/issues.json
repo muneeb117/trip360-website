@@ -1,0 +1,118 @@
+{
+ "errors": 29,
+ "crashes": 2,
+ "affected_users": 108,
+ "top": [
+  {
+   "fingerprint": "0f5709e50ab4e71869174a26c411a783",
+   "kind": "error",
+   "tag": "sync",
+   "message": "SocketException: Failed host lookup (OS Error: nodename nor servname provided, errno = 8)",
+   "count": 8,
+   "users": 3,
+   "first_seen": "2026-10-15T20:40:00.000Z",
+   "last_seen": "2026-10-16T15:25:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32"
+   ]
+  },
+  {
+   "fingerprint": "155c96fe988d7a2bfd8eb3bfa868d2ab",
+   "kind": "error",
+   "tag": "territory",
+   "message": "TerritoryClaimError: claim rejected (409) \u2014 hex already contested in batch #",
+   "count": 4,
+   "users": 2,
+   "first_seen": "2026-10-15T10:40:00.000Z",
+   "last_seen": "2026-10-16T20:32:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32",
+    "1.0.31"
+   ]
+  },
+  {
+   "fingerprint": "abd5ebc2bf00530020050cf8fcb40e5e",
+   "kind": "error",
+   "tag": "map_tiles",
+   "message": "ClientException: Connection closed while receiving data",
+   "count": 3,
+   "users": 1,
+   "first_seen": "2026-10-15T01:40:00.000Z",
+   "last_seen": "2026-10-16T20:51:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32"
+   ]
+  },
+  {
+   "fingerprint": "0f8503d393049f38bd445f81cde819c1",
+   "kind": "error",
+   "tag": "auth",
+   "message": "AuthException: refresh token not found",
+   "count": 2,
+   "users": 1,
+   "first_seen": "2026-10-15T20:40:00.000Z",
+   "last_seen": "2026-10-16T16:36:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33"
+   ]
+  },
+  {
+   "fingerprint": "b9113b73c3dc53e7bfa69dcb9d7fbe5e",
+   "kind": "error",
+   "tag": "tracking",
+   "message": "LocationTimeout: no fix within 30 s after auto-start",
+   "count": 2,
+   "users": 1,
+   "first_seen": "2026-10-15T18:40:00.000Z",
+   "last_seen": "2026-10-16T14:26:00.000Z",
+   "versions": [
+    "1.0.34"
+   ]
+  },
+  {
+   "fingerprint": "33f7b274037f3e99ad310b0f8089d003",
+   "kind": "error",
+   "tag": "billing",
+   "message": "PlatformException(PURCHASES_ERROR, The receipt is not valid)",
+   "count": 1,
+   "users": 1,
+   "first_seen": "2026-10-15T01:40:00.000Z",
+   "last_seen": "2026-10-16T20:54:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32",
+    "1.0.31"
+   ]
+  },
+  {
+   "fingerprint": "33e08be5495650eaa5c57b5b604fcc19",
+   "kind": "error",
+   "tag": "rankings",
+   "message": "TimeoutException after 0:00:15.000000: Future not completed",
+   "count": 1,
+   "users": 1,
+   "first_seen": "2026-10-15T13:40:00.000Z",
+   "last_seen": "2026-10-16T12:40:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32"
+   ]
+  }
+ ],
+ "series": [
+  {
+   "day": "2026-10-16",
+   "errors": 29,
+   "crashes": 2
+  }
+ ]
+}

@@ -1,0 +1,244 @@
+{
+ "users": [
+  {
+   "user_id": "65aa74dd-0189-43af-a461-5ba8e8a35b0b",
+   "username": "quietkm",
+   "country_code": "GB",
+   "created_at": "2026-07-24T03:40:00.000Z",
+   "last_seen": "2026-10-16T15:38:00.000Z",
+   "drives": 189,
+   "plan": "free",
+   "trial_until": null
+  },
+  {
+   "user_id": "40ca0979-0c31-457a-a9b4-68903f6cd580",
+   "username": "apexlina",
+   "country_code": "ES",
+   "created_at": "2026-05-12T23:40:00.000Z",
+   "last_seen": "2026-10-16T14:54:00.000Z",
+   "drives": 29,
+   "plan": "free",
+   "trial_until": null
+  },
+  {
+   "user_id": "523d9e31-5b8a-4bee-a9be-392d0cffd8b3",
+   "username": "pikestaff",
+   "country_code": "AU",
+   "created_at": "2026-08-07T22:40:00.000Z",
+   "last_seen": "2026-10-16T04:38:00.000Z",
+   "drives": 125,
+   "plan": "free",
+   "trial_until": null
+  },
+  {
+   "user_id": "681be464-db0d-4e82-ac34-96d95c9b3897",
+   "username": "slipstream",
+   "country_code": "NL",
+   "created_at": "2026-07-31T01:40:00.000Z",
+   "last_seen": "2026-10-15T21:58:00.000Z",
+   "drives": 147,
+   "plan": "free",
+   "trial_until": null
+  },
+  {
+   "user_id": "a6e3db59-4a11-415c-a0cd-27d518202c88",
+   "username": "nightowl_gt",
+   "country_code": "US",
+   "created_at": "2026-04-27T03:40:00.000Z",
+   "last_seen": "2026-10-15T21:55:00.000Z",
+   "drives": 156,
+   "plan": "free",
+   "trial_until": null
+  },
+  {
+   "user_id": "62ba5332-09fd-425d-ab0d-5e5e2151a0b2",
+   "username": "ringroad",
+   "country_code": "GB",
+   "created_at": "2026-08-06T22:40:00.000Z",
+   "last_seen": "2026-10-15T15:11:00.000Z",
+   "drives": 109,
+   "plan": "pro",
+   "trial_until": null
+  },
+  {
+   "user_id": "ab1cce36-e215-4608-a0fd-3d52c1038688",
+   "username": "m25orbit",
+   "country_code": "GB",
+   "created_at": "2026-03-25T16:40:00.000Z",
+   "last_seen": "2026-10-14T10:06:00.000Z",
+   "drives": 248,
+   "plan": "pro",
+   "trial_until": null
+  },
+  {
+   "user_id": "d6d77053-92bc-4af6-a332-8bea8c4c6904",
+   "username": "northbound",
+   "country_code": "GB",
+   "created_at": "2026-06-13T10:40:00.000Z",
+   "last_seen": "2026-10-14T08:26:00.000Z",
+   "drives": 236,
+   "plan": "pro",
+   "trial_until": null
+  },
+  {
+   "user_id": "e62b8bcc-21d7-4f37-a1ab-f477863b0bd4",
+   "username": "fjordline",
+   "country_code": "NO",
+   "created_at": "2026-08-13T09:40:00.000Z",
+   "last_seen": "2026-10-14T03:02:00.000Z",
+   "drives": 216,
+   "plan": "pro",
+   "trial_until": null
+  },
+  {
+   "user_id": "b01a0e23-da71-4a08-a893-11b8b2dfb069",
+   "username": "alexdrives",
+   "country_code": "GB",
+   "created_at": "2026-08-31T21:40:00.000Z",
+   "last_seen": "2026-10-13T00:14:00.000Z",
+   "drives": 14,
+   "plan": "pro",
+   "trial_until": null
+  },
+  {
+   "user_id": "134ad24e-9980-4ca1-a119-7065657dbf5e",
+   "username": "coldstart",
+   "country_code": "SE",
+   "created_at": "2026-10-03T18:40:00.000Z",
+   "last_seen": "2026-10-12T21:17:00.000Z",
+   "drives": 190,
+   "plan": "free",
+   "trial_until": null
+  },
+  {
+   "user_id": "bc12fcb3-aa7b-47df-a90e-f11e52283fff",
+   "username": "dunedash",
+   "country_code": "AE",
+   "created_at": "2026-06-29T15:40:00.000Z",
+   "last_seen": "2026-10-12T19:19:00.000Z",
+   "drives": 91,
+   "plan": "free",
+   "trial_until": null
+  },
+  {
+   "user_id": "46d82946-67be-4568-ad0c-9e0e09161a1e",
+   "username": "hexhunter",
+   "country_code": "GB",
+   "created_at": "2026-09-28T03:40:00.000Z",
+   "last_seen": "2026-10-11T21:04:00.000Z",
+   "drives": 41,
+   "plan": "free",
+   "trial_until": null
+  },
+  {
+   "user_id": "39201609-d980-4efb-a8f4-1f440309a429",
+   "username": "roadmoth",
+   "country_code": "CA",
+   "created_at": "2026-07-30T10:40:00.000Z",
+   "last_seen": "2026-10-11T16:39:00.000Z",
+   "drives": 210,
+   "plan": "pro",
+   "trial_until": null
+  },
+  {
+   "user_id": "ce594d95-7058-42bc-afce-448aea1007f0",
+   "username": "tarmacteo",
+   "country_code": "PT",
+   "created_at": "2026-03-20T02:40:00.000Z",
+   "last_seen": "2026-10-11T05:43:00.000Z",
+   "drives": 260,
+   "plan": "pro",
+   "trial_until": null
+  },
+  {
+   "user_id": "e0b4341c-457b-49b6-af43-815ace7f5bae",
+   "username": "sundaydrive",
+   "country_code": "GB",
+   "created_at": "2026-03-20T05:40:00.000Z",
+   "last_seen": "2026-10-10T21:23:00.000Z",
+   "drives": 207,
+   "plan": "free",
+   "trial_until": null
+  },
+  {
+   "user_id": "3d58ce20-fe80-4793-a0b2-21905baa60b3",
+   "username": "lateshift",
+   "country_code": "IE",
+   "created_at": "2026-05-23T17:40:00.000Z",
+   "last_seen": "2026-10-10T18:29:00.000Z",
+   "drives": 175,
+   "plan": "free",
+   "trial_until": null
+  },
+  {
+   "user_id": "46199f9d-ae2b-4e3c-a269-b52940d1f53a",
+   "username": "coastroad",
+   "country_code": "FR",
+   "created_at": "2026-03-14T20:40:00.000Z",
+   "last_seen": "2026-10-10T15:00:00.000Z",
+   "drives": 44,
+   "plan": "pro",
+   "trial_until": null
+  },
+  {
+   "user_id": "b762295c-91f4-449f-ab04-28a73708b18a",
+   "username": "karachicruise",
+   "country_code": "PK",
+   "created_at": "2026-09-22T23:40:00.000Z",
+   "last_seen": "2026-10-10T06:18:00.000Z",
+   "drives": 172,
+   "plan": "free",
+   "trial_until": null
+  },
+  {
+   "user_id": "c17d3a58-3c65-4a54-a6f6-cd42c532cf2a",
+   "username": "longway",
+   "country_code": "GB",
+   "created_at": "2026-08-12T00:40:00.000Z",
+   "last_seen": "2026-10-10T03:04:00.000Z",
+   "drives": 157,
+   "plan": "pro",
+   "trial_until": null
+  },
+  {
+   "user_id": "df3c6ecc-3336-4d23-aa18-315cbb3fc6d6",
+   "username": "redlinerae",
+   "country_code": "US",
+   "created_at": "2026-05-21T20:40:00.000Z",
+   "last_seen": "2026-10-09T10:33:00.000Z",
+   "drives": 104,
+   "plan": "free",
+   "trial_until": null
+  },
+  {
+   "user_id": "13ca05f7-945e-4659-a51d-a6abfd2eddac",
+   "username": "bluehour",
+   "country_code": "DE",
+   "created_at": "2026-08-14T11:40:00.000Z",
+   "last_seen": "2026-10-09T05:04:00.000Z",
+   "drives": 120,
+   "plan": "pro",
+   "trial_until": null
+  },
+  {
+   "user_id": "24b299d7-67a9-49b1-af4b-2e634067c8ad",
+   "username": "gravelrun",
+   "country_code": "NZ",
+   "created_at": "2026-09-28T03:40:00.000Z",
+   "last_seen": "2026-10-09T02:07:00.000Z",
+   "drives": 50,
+   "plan": "pro",
+   "trial_until": null
+  },
+  {
+   "user_id": "3ff24f82-23a7-4ed3-a613-2bb25ec3313e",
+   "username": "milemuncher",
+   "country_code": "AE",
+   "created_at": "2026-09-03T12:40:00.000Z",
+   "last_seen": "2026-10-08T16:31:00.000Z",
+   "drives": 201,
+   "plan": "pro",
+   "trial_until": null
+  }
+ ]
+}

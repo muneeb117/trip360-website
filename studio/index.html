@@ -10,8 +10,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=Barlow+Condensed:wght@600;700;800&family=Outfit:wght@400;600;700&family=Poppins:wght@500;700&display=swap">
-<style>html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0}img{max-width:100%}</style>
 <style>
+[hidden]{display:none!important} body{margin:0} img{max-width:100%}
 /* Layout: template list on the left, live editor (preview + fields + export) on the right; stacks on phones. Single dark look in the Trip360 asphalt + lime palette. */
 :root {
   color-scheme: dark;
@@ -99,149 +99,54 @@ input:focus-visible, select:focus-visible, textarea:focus-visible, button:focus-
 .recorder { position: fixed; left: 0; top: 0; width: 1px; height: 1px; overflow: hidden; opacity: 0; pointer-events: none; }
 @media (prefers-reduced-motion: reduce) { .tpl, .progress > div { transition: none; } }
 
-/* Tabs: Make clips | Creator handles */
-.tabs { display: inline-flex; border: 1px solid var(--line); border-radius: 13px; padding: 4px; gap: 4px; background: var(--panel); margin: 0 0 24px; max-width: 100%; overflow-x: auto; }
-.tabs button { border: 0; background: transparent; color: var(--muted); font: 700 15px var(--font-ui); padding: 10px 18px; min-height: 44px; border-radius: 10px; cursor: pointer; white-space: nowrap; }
-.tabs button:hover { color: var(--text); }
-.tabs button[aria-selected="true"] { background: var(--lime); color: var(--lime-ink); }
-
-/* Creator handles */
-.hv { display: flex; flex-direction: column; gap: 22px; }
-.hv-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 22px; align-items: start; }
-@media (min-width: 980px) { .hv-grid { grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); } }
-.hv .card h2 { margin: 0 0 4px; font-size: 22px; line-height: 1.25; }
-.hv .card .sub { margin: 0 0 16px; color: var(--muted); }
-.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 150px), 1fr)); gap: 12px; }
-.stat { border: 1px solid var(--line); border-radius: var(--radius); background: var(--panel); padding: 14px 16px; min-width: 0; }
-.stat .k { font: 600 12.5px var(--font-ui); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
-.stat .v { font: 700 38px/1.05 var(--font-num); margin-top: 4px; font-variant-numeric: tabular-nums; }
-.at { position: relative; }
-.at::before { content: "@"; position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: var(--faint); pointer-events: none; }
-.at input { padding-left: 28px; }
-.h-actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 16px; }
-.btn.danger { color: #FF8A80; }
-.notice { border: 1px solid #4A3A16; background: #1C170B; color: var(--text); border-radius: 12px; padding: 12px 14px; font-size: 14.5px; margin: 0 0 14px; }
-.notice.ok { border-color: #3D4A12; background: #151A07; }
-.app-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
-.app-row code { flex: 1 1 16rem; min-width: 0; overflow-wrap: anywhere; background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 11px 12px; font-size: 14px; color: var(--muted); }
-.toolbar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 14px; }
-.toolbar input { flex: 1 1 14rem; width: auto; }
-.chipf { border: 1px solid var(--line); background: var(--panel-2); color: var(--muted); border-radius: 999px; padding: 7px 13px; font: 600 13.5px var(--font-ui); cursor: pointer; min-height: 36px; }
-.chipf:hover { color: var(--text); }
-.chipf[aria-pressed="true"] { background: var(--lime); color: var(--lime-ink); border-color: var(--lime); }
-.people { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); gap: 12px; margin: 0; padding: 0; list-style: none; }
-.person { border: 1px solid var(--line); border-radius: var(--radius); background: var(--panel-2); padding: 14px 16px; display: flex; flex-direction: column; gap: 10px; min-width: 0; }
-.person.me { border-color: var(--lime); }
-.person-top { display: flex; justify-content: space-between; gap: 10px; align-items: baseline; }
-.person-name { font-weight: 700; font-size: 16.5px; overflow-wrap: anywhere; }
-.person-meta { font-size: 12.5px; color: var(--faint); white-space: nowrap; }
-.you { font: 800 11px var(--font-ui); letter-spacing: 0.1em; background: var(--lime); color: var(--lime-ink); border-radius: 999px; padding: 2px 8px; margin-left: 6px; vertical-align: 2px; }
-.plinks { display: flex; flex-wrap: wrap; gap: 6px; }
-.plink { display: inline-flex; gap: 6px; align-items: center; max-width: 100%; font-size: 13.5px; padding: 5px 11px; border-radius: 999px; border: 1px solid var(--line); background: var(--panel); color: var(--text); text-decoration: none; }
-.plink:hover { border-color: var(--lime); color: var(--lime); }
-.plink b { color: var(--muted); font-weight: 600; }
-.plink span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.empty { border: 1px dashed var(--line); border-radius: var(--radius); padding: 22px; text-align: center; color: var(--muted); }
-.empty strong { display: block; color: var(--text); margin-bottom: 4px; }
-.person .rm { align-self: flex-start; }
-.plink em { font-style: normal; font-weight: 700; color: var(--lime); }
-
-/* Platform panels in the creator form */
-.plats { display: flex; flex-direction: column; gap: 8px; margin-top: 16px; }
-.plat { border: 1px solid var(--line); border-radius: 12px; background: var(--panel-2); }
-.plat[open] { border-color: #46483A; }
-.plat summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 13px 14px; min-height: 48px; }
-.plat summary::-webkit-details-marker { display: none; }
-.plat summary::after { content: "+"; font: 700 20px/1 var(--font-ui); color: var(--muted); flex: none; }
-.plat[open] summary::after { content: "\2212"; }
-.pname { font-weight: 700; }
-.psum { flex: 1; min-width: 0; text-align: right; color: var(--faint); font-size: 13.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.psum.on { color: var(--lime); }
-.plat .fields { padding: 0 14px 14px; }
-
-/* Admin */
-.acard { border: 1px solid var(--line); border-radius: var(--radius); background: var(--panel-2); padding: 16px; display: flex; flex-direction: column; gap: 12px; min-width: 0; }
-#aList { display: flex; flex-direction: column; gap: 12px; }
-.acard-top { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
-.acard .person-meta { white-space: normal; margin-top: 2px; overflow-wrap: anywhere; }
-.st { font: 700 12px var(--font-ui); letter-spacing: 0.08em; text-transform: uppercase; border-radius: 999px; padding: 4px 10px; white-space: nowrap; border: 1px solid var(--line); color: var(--muted); }
-.st-approved { background: var(--lime); color: var(--lime-ink); border-color: var(--lime); }
-.st-pending { color: var(--warn); border-color: #4A3A16; }
-.st-paused { color: var(--text); }
-.st-rejected { color: #FF8A80; border-color: #4A1E1A; }
-.atbl { overflow-x: auto; }
-.atbl table { width: 100%; border-collapse: collapse; font-size: 14px; min-width: 520px; }
-.atbl th, .atbl td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; overflow-wrap: anywhere; }
-.atbl thead th { font: 600 12px var(--font-ui); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
-.atbl tbody th { font-weight: 700; white-space: nowrap; }
-.atbl .n { text-align: right; font-variant-numeric: tabular-nums; }
-.atbl a { color: var(--lime); }
-.arev { display: grid; grid-template-columns: minmax(0, 200px) minmax(0, 1fr); gap: 12px; }
-@media (max-width: 560px) { .arev { grid-template-columns: minmax(0, 1fr); } }
-.arev textarea { min-height: 46px; }
+/* Sign-in gate: shown until a creator account is confirmed (auth.js). */
+header.top .account { margin-left: auto; display: flex; align-items: center; gap: 12px; color: var(--muted); font-size: 14px; }
+.boot { min-height: 100vh; display: grid; place-items: center; color: var(--muted); }
+.gate { min-height: 100vh; display: grid; place-items: center; padding: 24px max(16px, env(safe-area-inset-left, 0px)); }
+.gate-card { width: 100%; max-width: 400px; border: 1px solid var(--line); border-radius: 20px; background: var(--panel); padding: 28px 24px; display: flex; flex-direction: column; gap: 16px; }
+.gate-card img { height: 34px; width: auto; align-self: flex-start; }
+.gate-card h1 { margin: 0; font-family: var(--font-num); font-weight: 700; font-size: 36px; line-height: 1; }
+.gate-card p { margin: 0; color: var(--muted); }
+.gate-card .field { gap: 6px; }
+.gate-card .btn { width: 100%; }
+.gate-error { min-height: 1.5em; margin: 0; color: var(--warn); font-size: 14px; }
+.gate-help { font-size: 13.5px; color: var(--faint) !important; }
 </style>
 </head>
 <body>
+<div class="boot" id="boot" aria-live="polite">Loading…</div>
+
+<main class="gate" id="gate" hidden>
+  <form class="gate-card" id="gateForm" novalidate>
+    <img src="/studio/assets/logo.png" alt="Trip360" width="655" height="173">
+    <h1>Clipper Studio</h1>
+    <p>Sign in with the email and password Trip360 gave you.</p>
+    <div class="field">
+      <label for="gateEmail">Email</label>
+      <input id="gateEmail" type="email" autocomplete="username" inputmode="email" required>
+    </div>
+    <div class="field">
+      <label for="gatePassword">Password</label>
+      <input id="gatePassword" type="password" autocomplete="current-password" required>
+    </div>
+    <p class="gate-error" id="gateError" role="alert"></p>
+    <button class="btn primary" id="gateSubmit" type="submit">Sign in</button>
+    <p class="gate-help">Forgot your password? Ask your Trip360 contact for a new one.</p>
+  </form>
+</main>
+
+<div id="studio" hidden>
 <div class="wrap">
   <header class="top">
-    <img src="/assets/studio/logo.png" alt="Trip360" width="655" height="173">
+    <img id="hdrLogo" src="/studio/assets/logo.png" alt="Trip360" width="655" height="173">
     <h1>Clipper Studio</h1>
+    <div class="account">
+      <span id="who"></span>
+      <button class="linkbtn" id="signOut" type="button">Sign out</button>
+    </div>
   </header>
   <p class="intro">Make Trip360 drive summaries, route maps, territory and leaderboard clips, achievements and end cards for your edits. Type in your numbers, check the live preview, then download a ready-to-post image or animated video for TikTok, Reels and Shorts.</p>
 
-  <div class="tabs" role="tablist" aria-label="Clipper Studio sections">
-    <button type="button" role="tab" id="tab-clips" aria-controls="viewClips" aria-selected="true">Make clips</button>
-    <button type="button" role="tab" id="tab-handles" aria-controls="viewHandles" aria-selected="false">Creator handles</button>
-    <button type="button" role="tab" id="tab-admin" aria-controls="viewAdmin" aria-selected="false" hidden>Admin</button>
-  </div>
-
-  <section class="hv" id="viewHandles" role="tabpanel" aria-labelledby="tab-handles" hidden>
-    <div class="stats" id="hStats"></div>
-    <div class="hv-grid">
-      <section class="card" aria-labelledby="hFormTitle">
-        <h2 id="hFormTitle">Add your channels</h2>
-        <p class="sub">Add every channel where you post Trip360 videos: the handle, channel name, link and follower count. Open a platform to fill it in, and skip the ones you don't use.</p>
-        <div id="hNotice"></div>
-        <form id="hForm" autocomplete="off" novalidate>
-          <div class="fields">
-            <div class="field"><label for="h-name">Your name</label><input id="h-name" name="name" maxlength="80" placeholder="For example: Erica"></div>
-            <div class="field"><label for="h-contact">Email or WhatsApp</label><input id="h-contact" name="contact" maxlength="120" placeholder="So the team can reach you"><span class="hint">Only the Trip360 team can see this.</span></div>
-          </div>
-          <div class="plats" id="hPlatformFields"></div>
-          <div class="h-actions">
-            <button class="btn primary" id="hSave" type="submit">Save my channels</button>
-            <button class="btn small danger" id="hRemove" type="button" hidden>Remove my channels</button>
-            <span class="status" id="hStatus" aria-live="polite"></span>
-          </div>
-        </form>
-      </section>
-      <section class="card" aria-labelledby="appTitle">
-        <h3 id="appTitle">Trip360 App Store link</h3>
-        <p class="sub" style="margin:0 0 12px">Put it in your bio and captions so viewers can download the app.</p>
-        <div class="app-row"><code id="appLink"></code><button class="btn small" id="copyApp" type="button">Copy link</button></div>
-        <span class="status" id="appStatus" aria-live="polite"></span>
-      </section>
-    </div>
-    <section class="card" aria-labelledby="hListTitle">
-      <h2 id="hListTitle">All creator channels</h2>
-      <p class="sub">Every creator who has added their channels. Tap a channel to open it.</p>
-      <div class="toolbar"><div id="hChips" style="display:contents"></div><input type="search" id="hSearch" placeholder="Search name, channel or handle" aria-label="Search creator channels"></div>
-      <div id="hList"><p class="status">Loading channels…</p></div>
-    </section>
-  </section>
-
-  <section class="hv" id="viewAdmin" role="tabpanel" aria-labelledby="tab-admin" hidden>
-    <div class="stats" id="aStats"></div>
-    <section class="card" aria-labelledby="aTitle">
-      <h2 id="aTitle">Creator admin</h2>
-      <p class="sub">Everything creators have entered, with their contact details, a review status and your private notes. Only you and Editors can see this tab.</p>
-      <div class="toolbar"><div id="aChips" style="display:contents"></div><input type="search" id="aSearch" placeholder="Search name, contact, channel or handle" aria-label="Search creators"></div>
-      <div id="aList"><p class="status">Loading creators…</p></div>
-      <div class="h-actions"><button class="btn small" id="aExport" type="button">Download full CSV</button><span class="status" id="aStatus" aria-live="polite"></span></div>
-    </section>
-  </section>
-
-  <div id="viewClips" role="tabpanel" aria-labelledby="tab-clips">
   <div class="layout">
     <ul class="list" id="tplList" aria-label="Templates"></ul>
 
@@ -302,10 +207,10 @@ input:focus-visible, select:focus-visible, textarea:focus-visible, button:focus-
     </div>
 
   </div>
-  </div>
 </div>
 <div class="recorder" aria-hidden="true"><canvas id="rec"></canvas></div>
-<script src="/js/studio.js"></script>
-<script src="/js/studio-creators.js"></script>
+</div>
+
+<script type="module" src="/studio/auth.js"></script>
 </body>
 </html>

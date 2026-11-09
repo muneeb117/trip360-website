@@ -1,0 +1,46 @@
+{
+ "versions": [
+  {
+   "app_version": "1.0.34",
+   "build": "14",
+   "users": 189,
+   "errors": 13,
+   "crashes": 0
+  },
+  {
+   "app_version": "1.0.33",
+   "build": "12",
+   "users": 1112,
+   "errors": 115,
+   "crashes": 5
+  },
+  {
+   "app_version": "1.0.32",
+   "build": "11",
+   "users": 781,
+   "errors": 123,
+   "crashes": 9
+  },
+  {
+   "app_version": "1.0.31",
+   "build": "10",
+   "users": 189,
+   "errors": 36,
+   "crashes": 3
+  },
+  {
+   "app_version": "1.0.30",
+   "build": "9",
+   "users": 71,
+   "errors": 16,
+   "crashes": 1
+  },
+  {
+   "app_version": "1.0.29",
+   "build": "8",
+   "users": 23,
+   "errors": 6,
+   "crashes": 0
+  }
+ ]
+}

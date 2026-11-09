@@ -1,0 +1,30 @@
+{
+ "range_days": 1,
+ "users_total": 8579,
+ "users_new": 77,
+ "dau_today": 987,
+ "wau": 2368,
+ "mau": 4540,
+ "drives": 1388,
+ "distance_km": 24151.2,
+ "active_trials": 672,
+ "paying_estimate": 236,
+ "paywall_views": 251,
+ "purchases": 7,
+ "conversion_pct": 2.8,
+ "invites_shared": 38,
+ "referrals_redeemed": 10,
+ "errors": 29,
+ "crashes": 2,
+ "series": [
+  {
+   "day": "2026-10-16",
+   "new_users": 77,
+   "active_users": 987,
+   "drives": 1388,
+   "paywall_views": 251,
+   "purchases": 7,
+   "errors": 29
+  }
+ ]
+}
