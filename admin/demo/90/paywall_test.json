@@ -1,0 +1,40 @@
+{
+  "range_days": 90,
+  "running": true,
+  "started_at": "2026-10-20T09:00:00.000Z",
+  "hard_trial_share": 0.5,
+  "groups": [
+    {
+      "variant": "free_week",
+      "accounts": 312,
+      "drove": 221,
+      "week_old": 240,
+      "active_after_week": 118,
+      "retention_7d_pct": 49.2,
+      "paywall_views": 870,
+      "trials_started": 0,
+      "paying": 9,
+      "conversion_pct": 2.9,
+      "revenue_usd": 214.91,
+      "revenue_per_account_usd": 0.69,
+      "friends_joined": 41,
+      "revenue_sq_usd": 5131.81
+    },
+    {
+      "variant": "hard_trial",
+      "accounts": 305,
+      "drove": 96,
+      "week_old": 233,
+      "active_after_week": 61,
+      "retention_7d_pct": 26.2,
+      "paywall_views": 611,
+      "trials_started": 58,
+      "paying": 21,
+      "conversion_pct": 6.9,
+      "revenue_usd": 389.79,
+      "revenue_per_account_usd": 1.28,
+      "friends_joined": 12,
+      "revenue_sq_usd": 7235.06
+    }
+  ]
+}

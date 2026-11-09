@@ -1,0 +1,145 @@
+{
+ "by_source": [
+  {
+   "source": "playMap",
+   "paywall_views": 72,
+   "purchases": 2,
+   "conversion_pct": 2.8
+  },
+  {
+   "source": "replay",
+   "paywall_views": 42,
+   "purchases": 1,
+   "conversion_pct": 2.4
+  },
+  {
+   "source": "reels",
+   "paywall_views": 30,
+   "purchases": 1,
+   "conversion_pct": 3.3
+  },
+  {
+   "source": "fullHistory",
+   "paywall_views": 27,
+   "purchases": 1,
+   "conversion_pct": 3.7
+  },
+  {
+   "source": "free_pro_card",
+   "paywall_views": 15,
+   "purchases": 1,
+   "conversion_pct": 6.7
+  },
+  {
+   "source": "settings",
+   "paywall_views": 7,
+   "purchases": 1,
+   "conversion_pct": 14.3
+  },
+  {
+   "source": "you_tab",
+   "paywall_views": 25,
+   "purchases": 0,
+   "conversion_pct": 0.0
+  },
+  {
+   "source": "detailedStats",
+   "paywall_views": 20,
+   "purchases": 0,
+   "conversion_pct": 0.0
+  },
+  {
+   "source": "vehicle_customiser",
+   "paywall_views": 10,
+   "purchases": 0,
+   "conversion_pct": 0.0
+  }
+ ],
+ "by_plan": [
+  {
+   "plan": "weekly",
+   "purchases": 4,
+   "revenue_usd": 55.89
+  },
+  {
+   "plan": "annual",
+   "purchases": 3,
+   "revenue_usd": 98.95
+  },
+  {
+   "plan": "annual_winback",
+   "purchases": 0,
+   "revenue_usd": 0.0
+  }
+ ],
+ "revenue_usd": 154.84,
+ "trials_started": 2,
+ "trial_conversions": 1,
+ "cancellations": 1,
+ "refunds": 0,
+ "series": [
+  {
+   "day": "2026-10-16",
+   "purchases": 7,
+   "revenue_usd": 154.84
+  }
+ ],
+ "recent": [
+  {
+   "at": "2026-10-16T21:22:00.000Z",
+   "type": "INITIAL_PURCHASE",
+   "product_id": "trip360.pro.weekly",
+   "price_usd": 4.99,
+   "user_id": "65aa74dd-0189-43af-a461-5ba8e8a35b0b",
+   "username": "quietkm"
+  },
+  {
+   "at": "2026-10-16T20:31:00.000Z",
+   "type": "RENEWAL",
+   "product_id": "trip360.pro.annual",
+   "price_usd": 29.99,
+   "user_id": "62ba5332-09fd-425d-ab0d-5e5e2151a0b2",
+   "username": "ringroad"
+  },
+  {
+   "at": "2026-10-16T17:56:00.000Z",
+   "type": "INITIAL_PURCHASE",
+   "product_id": "trip360.pro.weekly",
+   "price_usd": 4.99,
+   "user_id": "134ad24e-9980-4ca1-a119-7065657dbf5e",
+   "username": "coldstart"
+  },
+  {
+   "at": "2026-10-16T16:59:00.000Z",
+   "type": "CANCELLATION",
+   "product_id": "trip360.pro.annual.winback",
+   "price_usd": null,
+   "user_id": "e0b4341c-457b-49b6-af43-815ace7f5bae",
+   "username": "sundaydrive"
+  },
+  {
+   "at": "2026-10-16T15:22:00.000Z",
+   "type": "RENEWAL",
+   "product_id": "trip360.pro.weekly",
+   "price_usd": 4.99,
+   "user_id": "df3c6ecc-3336-4d23-aa18-315cbb3fc6d6",
+   "username": "redlinerae"
+  },
+  {
+   "at": "2026-10-16T12:51:00.000Z",
+   "type": "INITIAL_PURCHASE",
+   "product_id": "trip360.pro.annual",
+   "price_usd": 29.99,
+   "user_id": "40ca0979-0c31-457a-a9b4-68903f6cd580",
+   "username": "apexlina"
+  },
+  {
+   "at": "2026-10-16T11:44:00.000Z",
+   "type": "EXPIRATION",
+   "product_id": "trip360.pro.weekly",
+   "price_usd": null,
+   "user_id": "ab1cce36-e215-4608-a0fd-3d52c1038688",
+   "username": "m25orbit"
+  }
+ ]
+}

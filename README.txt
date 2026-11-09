@@ -9,5 +9,9 @@ assets css js  images, styles, scripts
 vercel.json    hosting rules and security headers: leave as it is
 .well-known    links that open the iPhone app: leave as it is
 
+admin/         admin panel (admin.trip360.site); marketing.html is not published yet
+studio/        Clipper Studio with creator logins (trip360.site/studio)
+studio-next/   the newer Studio, published at trip360.site/studio-next
+
 Plain HTML, no build step. To preview, open index.html in a browser.
-The admin panel and Clipper Studio are not in this copy.
+Merging into main publishes the site, after the owner approves the pull request.

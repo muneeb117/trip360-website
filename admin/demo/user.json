@@ -1,0 +1,311 @@
+{
+ "profile": {
+  "user_id": "b01a0e23-da71-4a08-a893-11b8b2dfb069",
+  "username": "alexdrives",
+  "display_name": "Alex",
+  "country_code": "GB",
+  "created_at": "2026-08-31T21:40:00.000Z",
+  "friend_code": "H3HQE4RA",
+  "local_only": false,
+  "cloud_backup": true,
+  "share_usage_data": true,
+  "app_version": "1.0.33",
+  "platform": "ios"
+ },
+ "entitlement": {
+  "is_pro": true,
+  "plan": "annual",
+  "product_id": "trip360.pro.annual",
+  "source": "store",
+  "period_type": "NORMAL",
+  "expires_at": "2027-08-31T21:40:00.000Z",
+  "will_renew": true
+ },
+ "drives": 14,
+ "distance_km": 340.2,
+ "last_seen": "2026-10-13T00:14:00.000Z",
+ "recent_events": [
+  {
+   "at": "2026-10-16T21:28:00.000Z",
+   "name": "screen_view",
+   "screen": "drive"
+  },
+  {
+   "at": "2026-10-16T20:26:00.000Z",
+   "name": "drive_saved",
+   "screen": "drive"
+  },
+  {
+   "at": "2026-10-16T17:15:00.000Z",
+   "name": "recap_opened",
+   "screen": "recap"
+  },
+  {
+   "at": "2026-10-16T14:59:00.000Z",
+   "name": "screen_view",
+   "screen": "replay"
+  },
+  {
+   "at": "2026-10-16T12:43:00.000Z",
+   "name": "ranks_viewed",
+   "screen": "ranks"
+  },
+  {
+   "at": "2026-10-16T12:00:00.000Z",
+   "name": "king_explained",
+   "screen": "play"
+  },
+  {
+   "at": "2026-10-16T09:49:00.000Z",
+   "name": "screen_view",
+   "screen": "you"
+  },
+  {
+   "at": "2026-10-16T07:20:00.000Z",
+   "name": "reel_exported",
+   "screen": "reel_editor"
+  },
+  {
+   "at": "2026-10-16T04:15:00.000Z",
+   "name": "paywall_viewed",
+   "screen": "paywall"
+  },
+  {
+   "at": "2026-10-16T03:57:00.000Z",
+   "name": "screen_view",
+   "screen": "settings"
+  },
+  {
+   "at": "2026-10-16T02:12:00.000Z",
+   "name": "friend_request_sent",
+   "screen": "friends"
+  },
+  {
+   "at": "2026-10-16T01:20:00.000Z",
+   "name": "drive_started",
+   "screen": "drive"
+  },
+  {
+   "at": "2026-10-15T22:39:00.000Z",
+   "name": "screen_view",
+   "screen": "drive"
+  },
+  {
+   "at": "2026-10-15T21:11:00.000Z",
+   "name": "recap_opened",
+   "screen": "recap"
+  },
+  {
+   "at": "2026-10-15T18:39:00.000Z",
+   "name": "replay_opened",
+   "screen": "replay"
+  },
+  {
+   "at": "2026-10-15T15:29:00.000Z",
+   "name": "screen_view",
+   "screen": "ranks"
+  },
+  {
+   "at": "2026-10-15T12:02:00.000Z",
+   "name": "play_viewed",
+   "screen": "play"
+  },
+  {
+   "at": "2026-10-15T10:45:00.000Z",
+   "name": "invite_shared",
+   "screen": "you"
+  },
+  {
+   "at": "2026-10-15T09:13:00.000Z",
+   "name": "screen_view",
+   "screen": "reel_editor"
+  },
+  {
+   "at": "2026-10-15T05:32:00.000Z",
+   "name": "paywall_viewed",
+   "screen": "paywall"
+  },
+  {
+   "at": "2026-10-15T03:57:00.000Z",
+   "name": "screen_view",
+   "screen": "settings"
+  },
+  {
+   "at": "2026-10-15T00:16:00.000Z",
+   "name": "screen_view",
+   "screen": "friends"
+  },
+  {
+   "at": "2026-10-14T23:45:00.000Z",
+   "name": "drive_started",
+   "screen": "drive"
+  },
+  {
+   "at": "2026-10-14T22:45:00.000Z",
+   "name": "drive_saved",
+   "screen": "drive"
+  },
+  {
+   "at": "2026-10-14T22:04:00.000Z",
+   "name": "screen_view",
+   "screen": "recap"
+  },
+  {
+   "at": "2026-10-14T18:38:00.000Z",
+   "name": "replay_opened",
+   "screen": "replay"
+  },
+  {
+   "at": "2026-10-14T15:12:00.000Z",
+   "name": "ranks_viewed",
+   "screen": "ranks"
+  },
+  {
+   "at": "2026-10-14T14:14:00.000Z",
+   "name": "screen_view",
+   "screen": "play"
+  },
+  {
+   "at": "2026-10-14T12:27:00.000Z",
+   "name": "invite_shared",
+   "screen": "you"
+  },
+  {
+   "at": "2026-10-14T11:30:00.000Z",
+   "name": "reel_exported",
+   "screen": "reel_editor"
+  },
+  {
+   "at": "2026-10-14T10:08:00.000Z",
+   "name": "screen_view",
+   "screen": "paywall"
+  },
+  {
+   "at": "2026-10-14T08:12:00.000Z",
+   "name": "screen_view",
+   "screen": "settings"
+  },
+  {
+   "at": "2026-10-14T07:30:00.000Z",
+   "name": "friend_request_sent",
+   "screen": "friends"
+  },
+  {
+   "at": "2026-10-14T05:38:00.000Z",
+   "name": "screen_view",
+   "screen": "drive"
+  },
+  {
+   "at": "2026-10-14T02:41:00.000Z",
+   "name": "drive_saved",
+   "screen": "drive"
+  },
+  {
+   "at": "2026-10-14T01:43:00.000Z",
+   "name": "recap_opened",
+   "screen": "recap"
+  },
+  {
+   "at": "2026-10-14T00:20:00.000Z",
+   "name": "screen_view",
+   "screen": "replay"
+  },
+  {
+   "at": "2026-10-13T20:43:00.000Z",
+   "name": "ranks_viewed",
+   "screen": "ranks"
+  },
+  {
+   "at": "2026-10-13T19:35:00.000Z",
+   "name": "king_explained",
+   "screen": "play"
+  },
+  {
+   "at": "2026-10-13T17:45:00.000Z",
+   "name": "screen_view",
+   "screen": "you"
+  },
+  {
+   "at": "2026-10-13T15:37:00.000Z",
+   "name": "reel_started",
+   "screen": "reel_editor"
+  },
+  {
+   "at": "2026-10-13T12:33:00.000Z",
+   "name": "paywall_viewed",
+   "screen": "paywall"
+  },
+  {
+   "at": "2026-10-13T09:30:00.000Z",
+   "name": "screen_view",
+   "screen": "settings"
+  },
+  {
+   "at": "2026-10-13T06:12:00.000Z",
+   "name": "friend_request_sent",
+   "screen": "friends"
+  },
+  {
+   "at": "2026-10-13T04:17:00.000Z",
+   "name": "drive_saved",
+   "screen": "drive"
+  },
+  {
+   "at": "2026-10-13T03:45:00.000Z",
+   "name": "screen_view",
+   "screen": "drive"
+  },
+  {
+   "at": "2026-10-13T01:55:00.000Z",
+   "name": "recap_opened",
+   "screen": "recap"
+  },
+  {
+   "at": "2026-10-12T23:02:00.000Z",
+   "name": "replay_opened",
+   "screen": "replay"
+  },
+  {
+   "at": "2026-10-12T19:10:00.000Z",
+   "name": "screen_view",
+   "screen": "ranks"
+  },
+  {
+   "at": "2026-10-12T15:17:00.000Z",
+   "name": "play_viewed",
+   "screen": "play"
+  }
+ ],
+ "purchases": [
+  {
+   "at": "2026-08-31T21:40:00.000Z",
+   "type": "INITIAL_PURCHASE",
+   "product_id": "trip360.pro.weekly",
+   "period_type": "TRIAL",
+   "price_usd": 0
+  },
+  {
+   "at": "2026-09-07T21:40:00.000Z",
+   "type": "PRODUCT_CHANGE",
+   "product_id": "trip360.pro.annual",
+   "period_type": "NORMAL",
+   "price_usd": 29.99
+  },
+  {
+   "at": "2026-09-07T21:40:00.000Z",
+   "type": "RENEWAL",
+   "product_id": "trip360.pro.annual",
+   "period_type": "NORMAL",
+   "price_usd": 29.99
+  }
+ ],
+ "referrals": {
+  "code": "H3HQE4RA",
+  "shared": 9,
+  "joined": 4,
+  "drove": 3,
+  "rewards_earned": 3,
+  "reward_days": 21,
+  "redeemed_code": null
+ }
+}

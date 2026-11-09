@@ -1,0 +1,308 @@
+{
+ "errors": 1242,
+ "crashes": 69,
+ "affected_users": 499,
+ "top": [
+  {
+   "fingerprint": "0f5709e50ab4e71869174a26c411a783",
+   "kind": "error",
+   "tag": "sync",
+   "message": "SocketException: Failed host lookup (OS Error: nodename nor servname provided, errno = 8)",
+   "count": 385,
+   "users": 147,
+   "first_seen": "2026-09-16T17:40:00.000Z",
+   "last_seen": "2026-10-16T08:15:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32"
+   ]
+  },
+  {
+   "fingerprint": "155c96fe988d7a2bfd8eb3bfa868d2ab",
+   "kind": "error",
+   "tag": "territory",
+   "message": "TerritoryClaimError: claim rejected (409) \u2014 hex already contested in batch #",
+   "count": 198,
+   "users": 107,
+   "first_seen": "2026-09-16T10:40:00.000Z",
+   "last_seen": "2026-10-16T13:07:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33"
+   ]
+  },
+  {
+   "fingerprint": "abd5ebc2bf00530020050cf8fcb40e5e",
+   "kind": "error",
+   "tag": "map_tiles",
+   "message": "ClientException: Connection closed while receiving data",
+   "count": 149,
+   "users": 51,
+   "first_seen": "2026-09-16T11:40:00.000Z",
+   "last_seen": "2026-10-16T20:34:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32",
+    "1.0.31"
+   ]
+  },
+  {
+   "fingerprint": "0f8503d393049f38bd445f81cde819c1",
+   "kind": "error",
+   "tag": "auth",
+   "message": "AuthException: refresh token not found",
+   "count": 111,
+   "users": 36,
+   "first_seen": "2026-09-16T15:40:00.000Z",
+   "last_seen": "2026-10-16T18:13:00.000Z",
+   "versions": [
+    "1.0.34"
+   ]
+  },
+  {
+   "fingerprint": "b9113b73c3dc53e7bfa69dcb9d7fbe5e",
+   "kind": "error",
+   "tag": "tracking",
+   "message": "LocationTimeout: no fix within 30 s after auto-start",
+   "count": 86,
+   "users": 37,
+   "first_seen": "2026-10-09T19:40:00.000Z",
+   "last_seen": "2026-10-16T11:56:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32",
+    "1.0.31"
+   ]
+  },
+  {
+   "fingerprint": "33f7b274037f3e99ad310b0f8089d003",
+   "kind": "error",
+   "tag": "billing",
+   "message": "PlatformException(PURCHASES_ERROR, The receipt is not valid)",
+   "count": 62,
+   "users": 20,
+   "first_seen": "2026-09-16T21:40:00.000Z",
+   "last_seen": "2026-10-16T01:59:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32"
+   ]
+  },
+  {
+   "fingerprint": "33e08be5495650eaa5c57b5b604fcc19",
+   "kind": "error",
+   "tag": "rankings",
+   "message": "TimeoutException after 0:00:15.000000: Future not completed",
+   "count": 49,
+   "users": 24,
+   "first_seen": "2026-09-16T20:40:00.000Z",
+   "last_seen": "2026-10-16T09:16:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32",
+    "1.0.31"
+   ]
+  },
+  {
+   "fingerprint": "a95473ef9bd0e9b575f548a50e6e1e7c",
+   "kind": "error",
+   "tag": "notifications",
+   "message": "FirebaseException: [messaging/unknown] APNS token has not been set yet",
+   "count": 37,
+   "users": 15,
+   "first_seen": "2026-09-16T05:40:00.000Z",
+   "last_seen": "2026-10-16T14:32:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33"
+   ]
+  },
+  {
+   "fingerprint": "abcfda2c4d496f16950b847e4cd847bb",
+   "kind": "crash",
+   "tag": "reels",
+   "message": "StateError: Bad state: No element \u00b7 reel_scene_builder.dart:212",
+   "count": 24,
+   "users": 8,
+   "first_seen": "2026-10-05T10:40:00.000Z",
+   "last_seen": "2026-10-16T16:16:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33"
+   ]
+  },
+  {
+   "fingerprint": "9181668f9b587528a6622a1a114f8b90",
+   "kind": "crash",
+   "tag": "replay",
+   "message": "RangeError (index): Invalid value: Not in inclusive range 0..#: #",
+   "count": 17,
+   "users": 9,
+   "first_seen": "2026-09-16T05:40:00.000Z",
+   "last_seen": "2026-10-16T05:05:00.000Z",
+   "versions": [
+    "1.0.34",
+    "1.0.33",
+    "1.0.32",
+    "1.0.31"
+   ]
+  }
+ ],
+ "series": [
+  {
+   "day": "2026-09-17",
+   "errors": 36,
+   "crashes": 1
+  },
+  {
+   "day": "2026-09-18",
+   "errors": 62,
+   "crashes": 5
+  },
+  {
+   "day": "2026-09-19",
+   "errors": 104,
+   "crashes": 9
+  },
+  {
+   "day": "2026-09-20",
+   "errors": 77,
+   "crashes": 3
+  },
+  {
+   "day": "2026-09-21",
+   "errors": 64,
+   "crashes": 2
+  },
+  {
+   "day": "2026-09-22",
+   "errors": 28,
+   "crashes": 2
+  },
+  {
+   "day": "2026-09-23",
+   "errors": 34,
+   "crashes": 2
+  },
+  {
+   "day": "2026-09-24",
+   "errors": 34,
+   "crashes": 2
+  },
+  {
+   "day": "2026-09-25",
+   "errors": 24,
+   "crashes": 0
+  },
+  {
+   "day": "2026-09-26",
+   "errors": 31,
+   "crashes": 2
+  },
+  {
+   "day": "2026-09-27",
+   "errors": 47,
+   "crashes": 2
+  },
+  {
+   "day": "2026-09-28",
+   "errors": 32,
+   "crashes": 2
+  },
+  {
+   "day": "2026-09-29",
+   "errors": 28,
+   "crashes": 2
+  },
+  {
+   "day": "2026-09-30",
+   "errors": 35,
+   "crashes": 1
+  },
+  {
+   "day": "2026-10-01",
+   "errors": 32,
+   "crashes": 2
+  },
+  {
+   "day": "2026-10-02",
+   "errors": 27,
+   "crashes": 2
+  },
+  {
+   "day": "2026-10-03",
+   "errors": 41,
+   "crashes": 2
+  },
+  {
+   "day": "2026-10-04",
+   "errors": 45,
+   "crashes": 3
+  },
+  {
+   "day": "2026-10-05",
+   "errors": 29,
+   "crashes": 1
+  },
+  {
+   "day": "2026-10-06",
+   "errors": 38,
+   "crashes": 3
+  },
+  {
+   "day": "2026-10-07",
+   "errors": 39,
+   "crashes": 1
+  },
+  {
+   "day": "2026-10-08",
+   "errors": 35,
+   "crashes": 2
+  },
+  {
+   "day": "2026-10-09",
+   "errors": 31,
+   "crashes": 1
+  },
+  {
+   "day": "2026-10-10",
+   "errors": 45,
+   "crashes": 3
+  },
+  {
+   "day": "2026-10-11",
+   "errors": 45,
+   "crashes": 1
+  },
+  {
+   "day": "2026-10-12",
+   "errors": 35,
+   "crashes": 2
+  },
+  {
+   "day": "2026-10-13",
+   "errors": 44,
+   "crashes": 3
+  },
+  {
+   "day": "2026-10-14",
+   "errors": 47,
+   "crashes": 3
+  },
+  {
+   "day": "2026-10-15",
+   "errors": 44,
+   "crashes": 3
+  },
+  {
+   "day": "2026-10-16",
+   "errors": 29,
+   "crashes": 2
+  }
+ ]
+}

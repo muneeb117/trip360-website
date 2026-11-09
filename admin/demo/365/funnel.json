@@ -1,0 +1,39 @@
+{
+ "steps": [
+  {
+   "key": "installed",
+   "label": "Installed",
+   "users": 11357
+  },
+  {
+   "key": "onboarded",
+   "label": "Finished onboarding",
+   "users": 9539
+  },
+  {
+   "key": "signed_up",
+   "label": "Signed up",
+   "users": 8063
+  },
+  {
+   "key": "first_drive",
+   "label": "First drive",
+   "users": 5564
+  },
+  {
+   "key": "paywall_viewed",
+   "label": "Saw the paywall",
+   "users": 4315
+  },
+  {
+   "key": "purchase_started",
+   "label": "Started a purchase",
+   "users": 806
+  },
+  {
+   "key": "purchased",
+   "label": "Purchased",
+   "users": 465
+  }
+ ]
+}

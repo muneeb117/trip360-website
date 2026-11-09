@@ -1,0 +1,173 @@
+{
+  "range_days": 30,
+  "active_accounts": 140,
+  "reported_accounts": 64,
+  "status": {
+    "monitoring": 40,
+    "permission_denied": 13,
+    "disabled": 6,
+    "passenger_paused": 3,
+    "unavailable": 2
+  },
+  "missing": {
+    "location_always": 9,
+    "motion": 4
+  },
+  "drivers": 96,
+  "auto_drivers": 78,
+  "manual_only_drivers": 18,
+  "drives_auto": 1741,
+  "drives_manual": 159,
+  "daily": [
+    {
+      "day": "2026-09-25",
+      "auto": 66,
+      "manual": 3
+    },
+    {
+      "day": "2026-09-26",
+      "auto": 55,
+      "manual": 3
+    },
+    {
+      "day": "2026-09-27",
+      "auto": 75,
+      "manual": 6
+    },
+    {
+      "day": "2026-09-28",
+      "auto": 43,
+      "manual": 9
+    },
+    {
+      "day": "2026-09-29",
+      "auto": 47,
+      "manual": 4
+    },
+    {
+      "day": "2026-09-30",
+      "auto": 43,
+      "manual": 7
+    },
+    {
+      "day": "2026-10-01",
+      "auto": 65,
+      "manual": 3
+    },
+    {
+      "day": "2026-10-02",
+      "auto": 54,
+      "manual": 3
+    },
+    {
+      "day": "2026-10-03",
+      "auto": 75,
+      "manual": 9
+    },
+    {
+      "day": "2026-10-04",
+      "auto": 48,
+      "manual": 5
+    },
+    {
+      "day": "2026-10-05",
+      "auto": 66,
+      "manual": 4
+    },
+    {
+      "day": "2026-10-06",
+      "auto": 74,
+      "manual": 3
+    },
+    {
+      "day": "2026-10-07",
+      "auto": 59,
+      "manual": 7
+    },
+    {
+      "day": "2026-10-08",
+      "auto": 51,
+      "manual": 3
+    },
+    {
+      "day": "2026-10-09",
+      "auto": 52,
+      "manual": 5
+    },
+    {
+      "day": "2026-10-10",
+      "auto": 46,
+      "manual": 7
+    },
+    {
+      "day": "2026-10-11",
+      "auto": 44,
+      "manual": 7
+    },
+    {
+      "day": "2026-10-12",
+      "auto": 43,
+      "manual": 7
+    },
+    {
+      "day": "2026-10-13",
+      "auto": 53,
+      "manual": 6
+    },
+    {
+      "day": "2026-10-14",
+      "auto": 74,
+      "manual": 6
+    },
+    {
+      "day": "2026-10-15",
+      "auto": 60,
+      "manual": 6
+    },
+    {
+      "day": "2026-10-16",
+      "auto": 69,
+      "manual": 5
+    },
+    {
+      "day": "2026-10-17",
+      "auto": 59,
+      "manual": 4
+    },
+    {
+      "day": "2026-10-18",
+      "auto": 51,
+      "manual": 8
+    },
+    {
+      "day": "2026-10-19",
+      "auto": 55,
+      "manual": 3
+    },
+    {
+      "day": "2026-10-20",
+      "auto": 59,
+      "manual": 7
+    },
+    {
+      "day": "2026-10-21",
+      "auto": 71,
+      "manual": 5
+    },
+    {
+      "day": "2026-10-22",
+      "auto": 68,
+      "manual": 5
+    },
+    {
+      "day": "2026-10-23",
+      "auto": 44,
+      "manual": 3
+    },
+    {
+      "day": "2026-10-24",
+      "auto": 72,
+      "manual": 6
+    }
+  ]
+}

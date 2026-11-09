@@ -1,0 +1,84 @@
+{
+ "range_days": 7,
+ "users_total": 8579,
+ "users_new": 611,
+ "dau_today": 987,
+ "wau": 2368,
+ "mau": 4540,
+ "drives": 10519,
+ "distance_km": 183030.6,
+ "active_trials": 672,
+ "paying_estimate": 236,
+ "paywall_views": 1820,
+ "purchases": 51,
+ "conversion_pct": 2.8,
+ "invites_shared": 317,
+ "referrals_redeemed": 72,
+ "errors": 289,
+ "crashes": 17,
+ "series": [
+  {
+   "day": "2026-10-10",
+   "new_users": 89,
+   "active_users": 1178,
+   "drives": 2029,
+   "paywall_views": 294,
+   "purchases": 9,
+   "errors": 45
+  },
+  {
+   "day": "2026-10-11",
+   "new_users": 106,
+   "active_users": 1149,
+   "drives": 1868,
+   "paywall_views": 294,
+   "purchases": 7,
+   "errors": 45
+  },
+  {
+   "day": "2026-10-12",
+   "new_users": 78,
+   "active_users": 983,
+   "drives": 1263,
+   "paywall_views": 254,
+   "purchases": 9,
+   "errors": 35
+  },
+  {
+   "day": "2026-10-13",
+   "new_users": 81,
+   "active_users": 979,
+   "drives": 1265,
+   "paywall_views": 237,
+   "purchases": 7,
+   "errors": 44
+  },
+  {
+   "day": "2026-10-14",
+   "new_users": 94,
+   "active_users": 958,
+   "drives": 1337,
+   "paywall_views": 258,
+   "purchases": 7,
+   "errors": 47
+  },
+  {
+   "day": "2026-10-15",
+   "new_users": 86,
+   "active_users": 975,
+   "drives": 1369,
+   "paywall_views": 232,
+   "purchases": 5,
+   "errors": 44
+  },
+  {
+   "day": "2026-10-16",
+   "new_users": 77,
+   "active_users": 987,
+   "drives": 1388,
+   "paywall_views": 251,
+   "purchases": 7,
+   "errors": 29
+  }
+ ]
+}

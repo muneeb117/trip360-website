@@ -1,0 +1,96 @@
+{
+ "codes_shared": 317,
+ "redeemed": 72,
+ "friends_drove": 48,
+ "rewards_earned": 47,
+ "friend_requests": 602,
+ "friends_added": 380,
+ "clubs_joined": 98,
+ "top_inviters": [
+  {
+   "user_id": "65aa74dd-0189-43af-a461-5ba8e8a35b0b",
+   "username": "quietkm",
+   "joined": 6,
+   "drove": 4
+  },
+  {
+   "user_id": "40ca0979-0c31-457a-a9b4-68903f6cd580",
+   "username": "apexlina",
+   "joined": 3,
+   "drove": 2
+  },
+  {
+   "user_id": "523d9e31-5b8a-4bee-a9be-392d0cffd8b3",
+   "username": "pikestaff",
+   "joined": 3,
+   "drove": 2
+  },
+  {
+   "user_id": "681be464-db0d-4e82-ac34-96d95c9b3897",
+   "username": "slipstream",
+   "joined": 2,
+   "drove": 1
+  },
+  {
+   "user_id": "a6e3db59-4a11-415c-a0cd-27d518202c88",
+   "username": "nightowl_gt",
+   "joined": 2,
+   "drove": 1
+  },
+  {
+   "user_id": "62ba5332-09fd-425d-ab0d-5e5e2151a0b2",
+   "username": "ringroad",
+   "joined": 1,
+   "drove": 0
+  },
+  {
+   "user_id": "ab1cce36-e215-4608-a0fd-3d52c1038688",
+   "username": "m25orbit",
+   "joined": 1,
+   "drove": 0
+  },
+  {
+   "user_id": "d6d77053-92bc-4af6-a332-8bea8c4c6904",
+   "username": "northbound",
+   "joined": 1,
+   "drove": 0
+  }
+ ],
+ "series": [
+  {
+   "day": "2026-10-10",
+   "shared": 56,
+   "redeemed": 14
+  },
+  {
+   "day": "2026-10-11",
+   "shared": 49,
+   "redeemed": 11
+  },
+  {
+   "day": "2026-10-12",
+   "shared": 37,
+   "redeemed": 9
+  },
+  {
+   "day": "2026-10-13",
+   "shared": 52,
+   "redeemed": 11
+  },
+  {
+   "day": "2026-10-14",
+   "shared": 47,
+   "redeemed": 10
+  },
+  {
+   "day": "2026-10-15",
+   "shared": 38,
+   "redeemed": 7
+  },
+  {
+   "day": "2026-10-16",
+   "shared": 38,
+   "redeemed": 10
+  }
+ ]
+}

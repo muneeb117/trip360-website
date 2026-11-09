@@ -1,0 +1,25 @@
+{
+  "range_days": 1,
+  "active_accounts": 5,
+  "reported_accounts": 2,
+  "status": {
+    "monitoring": 1,
+    "unavailable": 1
+  },
+  "missing": {
+    "location_always": 0,
+    "motion": 0
+  },
+  "drivers": 3,
+  "auto_drivers": 3,
+  "manual_only_drivers": 1,
+  "drives_auto": 60,
+  "drives_manual": 4,
+  "daily": [
+    {
+      "day": "2026-10-24",
+      "auto": 60,
+      "manual": 4
+    }
+  ]
+}

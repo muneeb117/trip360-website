@@ -1,0 +1,831 @@
+{
+ "range_days": 90,
+ "users_total": 8579,
+ "users_new": 4756,
+ "dau_today": 987,
+ "wau": 2368,
+ "mau": 4540,
+ "drives": 95499,
+ "distance_km": 1661682.6,
+ "active_trials": 672,
+ "paying_estimate": 236,
+ "paywall_views": 15437,
+ "purchases": 399,
+ "conversion_pct": 2.6,
+ "invites_shared": 2934,
+ "referrals_redeemed": 675,
+ "errors": 2745,
+ "crashes": 135,
+ "series": [
+  {
+   "day": "2026-07-19",
+   "new_users": 46,
+   "active_users": 573,
+   "drives": 917,
+   "paywall_views": 137,
+   "purchases": 3,
+   "errors": 23
+  },
+  {
+   "day": "2026-07-20",
+   "new_users": 37,
+   "active_users": 495,
+   "drives": 658,
+   "paywall_views": 124,
+   "purchases": 4,
+   "errors": 22
+  },
+  {
+   "day": "2026-07-21",
+   "new_users": 43,
+   "active_users": 468,
+   "drives": 625,
+   "paywall_views": 113,
+   "purchases": 3,
+   "errors": 20
+  },
+  {
+   "day": "2026-07-22",
+   "new_users": 42,
+   "active_users": 470,
+   "drives": 594,
+   "paywall_views": 125,
+   "purchases": 4,
+   "errors": 20
+  },
+  {
+   "day": "2026-07-23",
+   "new_users": 49,
+   "active_users": 508,
+   "drives": 684,
+   "paywall_views": 114,
+   "purchases": 3,
+   "errors": 18
+  },
+  {
+   "day": "2026-07-24",
+   "new_users": 43,
+   "active_users": 495,
+   "drives": 627,
+   "paywall_views": 111,
+   "purchases": 3,
+   "errors": 20
+  },
+  {
+   "day": "2026-07-25",
+   "new_users": 48,
+   "active_users": 586,
+   "drives": 995,
+   "paywall_views": 136,
+   "purchases": 4,
+   "errors": 18
+  },
+  {
+   "day": "2026-07-26",
+   "new_users": 47,
+   "active_users": 624,
+   "drives": 1019,
+   "paywall_views": 151,
+   "purchases": 5,
+   "errors": 23
+  },
+  {
+   "day": "2026-07-27",
+   "new_users": 46,
+   "active_users": 491,
+   "drives": 702,
+   "paywall_views": 119,
+   "purchases": 3,
+   "errors": 24
+  },
+  {
+   "day": "2026-07-28",
+   "new_users": 46,
+   "active_users": 540,
+   "drives": 715,
+   "paywall_views": 141,
+   "purchases": 3,
+   "errors": 23
+  },
+  {
+   "day": "2026-07-29",
+   "new_users": 46,
+   "active_users": 490,
+   "drives": 656,
+   "paywall_views": 119,
+   "purchases": 2,
+   "errors": 23
+  },
+  {
+   "day": "2026-07-30",
+   "new_users": 47,
+   "active_users": 544,
+   "drives": 712,
+   "paywall_views": 144,
+   "purchases": 3,
+   "errors": 22
+  },
+  {
+   "day": "2026-07-31",
+   "new_users": 46,
+   "active_users": 497,
+   "drives": 641,
+   "paywall_views": 121,
+   "purchases": 3,
+   "errors": 24
+  },
+  {
+   "day": "2026-08-01",
+   "new_users": 48,
+   "active_users": 666,
+   "drives": 1048,
+   "paywall_views": 162,
+   "purchases": 3,
+   "errors": 32
+  },
+  {
+   "day": "2026-08-02",
+   "new_users": 39,
+   "active_users": 616,
+   "drives": 1012,
+   "paywall_views": 136,
+   "purchases": 4,
+   "errors": 28
+  },
+  {
+   "day": "2026-08-03",
+   "new_users": 41,
+   "active_users": 506,
+   "drives": 678,
+   "paywall_views": 125,
+   "purchases": 2,
+   "errors": 23
+  },
+  {
+   "day": "2026-08-04",
+   "new_users": 40,
+   "active_users": 530,
+   "drives": 757,
+   "paywall_views": 135,
+   "purchases": 4,
+   "errors": 21
+  },
+  {
+   "day": "2026-08-05",
+   "new_users": 44,
+   "active_users": 575,
+   "drives": 749,
+   "paywall_views": 141,
+   "purchases": 3,
+   "errors": 21
+  },
+  {
+   "day": "2026-08-06",
+   "new_users": 34,
+   "active_users": 523,
+   "drives": 694,
+   "paywall_views": 119,
+   "purchases": 2,
+   "errors": 23
+  },
+  {
+   "day": "2026-08-07",
+   "new_users": 45,
+   "active_users": 532,
+   "drives": 757,
+   "paywall_views": 126,
+   "purchases": 3,
+   "errors": 17
+  },
+  {
+   "day": "2026-08-08",
+   "new_users": 43,
+   "active_users": 715,
+   "drives": 1220,
+   "paywall_views": 163,
+   "purchases": 4,
+   "errors": 25
+  },
+  {
+   "day": "2026-08-09",
+   "new_users": 58,
+   "active_users": 713,
+   "drives": 1153,
+   "paywall_views": 157,
+   "purchases": 4,
+   "errors": 27
+  },
+  {
+   "day": "2026-08-10",
+   "new_users": 43,
+   "active_users": 583,
+   "drives": 780,
+   "paywall_views": 132,
+   "purchases": 4,
+   "errors": 28
+  },
+  {
+   "day": "2026-08-11",
+   "new_users": 40,
+   "active_users": 540,
+   "drives": 739,
+   "paywall_views": 132,
+   "purchases": 2,
+   "errors": 19
+  },
+  {
+   "day": "2026-08-12",
+   "new_users": 46,
+   "active_users": 558,
+   "drives": 799,
+   "paywall_views": 125,
+   "purchases": 4,
+   "errors": 18
+  },
+  {
+   "day": "2026-08-13",
+   "new_users": 37,
+   "active_users": 566,
+   "drives": 779,
+   "paywall_views": 121,
+   "purchases": 3,
+   "errors": 19
+  },
+  {
+   "day": "2026-08-14",
+   "new_users": 51,
+   "active_users": 597,
+   "drives": 847,
+   "paywall_views": 136,
+   "purchases": 4,
+   "errors": 19
+  },
+  {
+   "day": "2026-08-15",
+   "new_users": 54,
+   "active_users": 707,
+   "drives": 1275,
+   "paywall_views": 165,
+   "purchases": 5,
+   "errors": 27
+  },
+  {
+   "day": "2026-08-16",
+   "new_users": 49,
+   "active_users": 782,
+   "drives": 1377,
+   "paywall_views": 188,
+   "purchases": 6,
+   "errors": 35
+  },
+  {
+   "day": "2026-08-17",
+   "new_users": 47,
+   "active_users": 617,
+   "drives": 818,
+   "paywall_views": 134,
+   "purchases": 3,
+   "errors": 27
+  },
+  {
+   "day": "2026-08-18",
+   "new_users": 52,
+   "active_users": 598,
+   "drives": 839,
+   "paywall_views": 136,
+   "purchases": 3,
+   "errors": 18
+  },
+  {
+   "day": "2026-08-19",
+   "new_users": 49,
+   "active_users": 632,
+   "drives": 792,
+   "paywall_views": 163,
+   "purchases": 3,
+   "errors": 30
+  },
+  {
+   "day": "2026-08-20",
+   "new_users": 35,
+   "active_users": 569,
+   "drives": 760,
+   "paywall_views": 143,
+   "purchases": 4,
+   "errors": 20
+  },
+  {
+   "day": "2026-08-21",
+   "new_users": 52,
+   "active_users": 666,
+   "drives": 893,
+   "paywall_views": 144,
+   "purchases": 4,
+   "errors": 23
+  },
+  {
+   "day": "2026-08-22",
+   "new_users": 44,
+   "active_users": 721,
+   "drives": 1192,
+   "paywall_views": 170,
+   "purchases": 5,
+   "errors": 21
+  },
+  {
+   "day": "2026-08-23",
+   "new_users": 46,
+   "active_users": 796,
+   "drives": 1332,
+   "paywall_views": 185,
+   "purchases": 3,
+   "errors": 30
+  },
+  {
+   "day": "2026-08-24",
+   "new_users": 45,
+   "active_users": 646,
+   "drives": 872,
+   "paywall_views": 139,
+   "purchases": 4,
+   "errors": 29
+  },
+  {
+   "day": "2026-08-25",
+   "new_users": 43,
+   "active_users": 613,
+   "drives": 811,
+   "paywall_views": 128,
+   "purchases": 3,
+   "errors": 18
+  },
+  {
+   "day": "2026-08-26",
+   "new_users": 46,
+   "active_users": 670,
+   "drives": 917,
+   "paywall_views": 143,
+   "purchases": 3,
+   "errors": 25
+  },
+  {
+   "day": "2026-08-27",
+   "new_users": 49,
+   "active_users": 627,
+   "drives": 822,
+   "paywall_views": 149,
+   "purchases": 5,
+   "errors": 20
+  },
+  {
+   "day": "2026-08-28",
+   "new_users": 54,
+   "active_users": 646,
+   "drives": 889,
+   "paywall_views": 139,
+   "purchases": 3,
+   "errors": 20
+  },
+  {
+   "day": "2026-08-29",
+   "new_users": 44,
+   "active_users": 791,
+   "drives": 1352,
+   "paywall_views": 167,
+   "purchases": 4,
+   "errors": 31
+  },
+  {
+   "day": "2026-08-30",
+   "new_users": 51,
+   "active_users": 837,
+   "drives": 1498,
+   "paywall_views": 186,
+   "purchases": 4,
+   "errors": 30
+  },
+  {
+   "day": "2026-08-31",
+   "new_users": 41,
+   "active_users": 704,
+   "drives": 949,
+   "paywall_views": 170,
+   "purchases": 3,
+   "errors": 25
+  },
+  {
+   "day": "2026-09-01",
+   "new_users": 42,
+   "active_users": 707,
+   "drives": 904,
+   "paywall_views": 170,
+   "purchases": 4,
+   "errors": 24
+  },
+  {
+   "day": "2026-09-02",
+   "new_users": 46,
+   "active_users": 717,
+   "drives": 1017,
+   "paywall_views": 162,
+   "purchases": 4,
+   "errors": 28
+  },
+  {
+   "day": "2026-09-03",
+   "new_users": 50,
+   "active_users": 646,
+   "drives": 854,
+   "paywall_views": 141,
+   "purchases": 4,
+   "errors": 20
+  },
+  {
+   "day": "2026-09-04",
+   "new_users": 48,
+   "active_users": 670,
+   "drives": 961,
+   "paywall_views": 169,
+   "purchases": 4,
+   "errors": 33
+  },
+  {
+   "day": "2026-09-05",
+   "new_users": 43,
+   "active_users": 801,
+   "drives": 1295,
+   "paywall_views": 172,
+   "purchases": 4,
+   "errors": 30
+  },
+  {
+   "day": "2026-09-06",
+   "new_users": 59,
+   "active_users": 925,
+   "drives": 1533,
+   "paywall_views": 208,
+   "purchases": 6,
+   "errors": 35
+  },
+  {
+   "day": "2026-09-07",
+   "new_users": 56,
+   "active_users": 717,
+   "drives": 907,
+   "paywall_views": 161,
+   "purchases": 4,
+   "errors": 34
+  },
+  {
+   "day": "2026-09-08",
+   "new_users": 40,
+   "active_users": 668,
+   "drives": 862,
+   "paywall_views": 145,
+   "purchases": 4,
+   "errors": 30
+  },
+  {
+   "day": "2026-09-09",
+   "new_users": 59,
+   "active_users": 743,
+   "drives": 994,
+   "paywall_views": 180,
+   "purchases": 4,
+   "errors": 26
+  },
+  {
+   "day": "2026-09-10",
+   "new_users": 49,
+   "active_users": 705,
+   "drives": 885,
+   "paywall_views": 148,
+   "purchases": 3,
+   "errors": 28
+  },
+  {
+   "day": "2026-09-11",
+   "new_users": 50,
+   "active_users": 685,
+   "drives": 929,
+   "paywall_views": 160,
+   "purchases": 5,
+   "errors": 23
+  },
+  {
+   "day": "2026-09-12",
+   "new_users": 53,
+   "active_users": 919,
+   "drives": 1616,
+   "paywall_views": 205,
+   "purchases": 7,
+   "errors": 38
+  },
+  {
+   "day": "2026-09-13",
+   "new_users": 49,
+   "active_users": 881,
+   "drives": 1446,
+   "paywall_views": 219,
+   "purchases": 5,
+   "errors": 40
+  },
+  {
+   "day": "2026-09-14",
+   "new_users": 51,
+   "active_users": 745,
+   "drives": 953,
+   "paywall_views": 178,
+   "purchases": 5,
+   "errors": 29
+  },
+  {
+   "day": "2026-09-15",
+   "new_users": 46,
+   "active_users": 731,
+   "drives": 997,
+   "paywall_views": 164,
+   "purchases": 4,
+   "errors": 28
+  },
+  {
+   "day": "2026-09-16",
+   "new_users": 43,
+   "active_users": 710,
+   "drives": 896,
+   "paywall_views": 147,
+   "purchases": 4,
+   "errors": 28
+  },
+  {
+   "day": "2026-09-17",
+   "new_users": 50,
+   "active_users": 784,
+   "drives": 1013,
+   "paywall_views": 175,
+   "purchases": 5,
+   "errors": 36
+  },
+  {
+   "day": "2026-09-18",
+   "new_users": 48,
+   "active_users": 793,
+   "drives": 993,
+   "paywall_views": 189,
+   "purchases": 4,
+   "errors": 62
+  },
+  {
+   "day": "2026-09-19",
+   "new_users": 55,
+   "active_users": 934,
+   "drives": 1626,
+   "paywall_views": 192,
+   "purchases": 5,
+   "errors": 104
+  },
+  {
+   "day": "2026-09-20",
+   "new_users": 54,
+   "active_users": 943,
+   "drives": 1476,
+   "paywall_views": 223,
+   "purchases": 7,
+   "errors": 77
+  },
+  {
+   "day": "2026-09-21",
+   "new_users": 46,
+   "active_users": 798,
+   "drives": 1039,
+   "paywall_views": 188,
+   "purchases": 4,
+   "errors": 64
+  },
+  {
+   "day": "2026-09-22",
+   "new_users": 54,
+   "active_users": 817,
+   "drives": 1159,
+   "paywall_views": 194,
+   "purchases": 6,
+   "errors": 28
+  },
+  {
+   "day": "2026-09-23",
+   "new_users": 46,
+   "active_users": 796,
+   "drives": 1002,
+   "paywall_views": 161,
+   "purchases": 4,
+   "errors": 34
+  },
+  {
+   "day": "2026-09-24",
+   "new_users": 44,
+   "active_users": 825,
+   "drives": 1108,
+   "paywall_views": 199,
+   "purchases": 5,
+   "errors": 34
+  },
+  {
+   "day": "2026-09-25",
+   "new_users": 48,
+   "active_users": 751,
+   "drives": 1036,
+   "paywall_views": 165,
+   "purchases": 4,
+   "errors": 24
+  },
+  {
+   "day": "2026-09-26",
+   "new_users": 52,
+   "active_users": 953,
+   "drives": 1519,
+   "paywall_views": 220,
+   "purchases": 7,
+   "errors": 31
+  },
+  {
+   "day": "2026-09-27",
+   "new_users": 58,
+   "active_users": 1026,
+   "drives": 1648,
+   "paywall_views": 242,
+   "purchases": 6,
+   "errors": 47
+  },
+  {
+   "day": "2026-09-28",
+   "new_users": 48,
+   "active_users": 763,
+   "drives": 963,
+   "paywall_views": 167,
+   "purchases": 4,
+   "errors": 32
+  },
+  {
+   "day": "2026-09-29",
+   "new_users": 60,
+   "active_users": 865,
+   "drives": 1240,
+   "paywall_views": 199,
+   "purchases": 6,
+   "errors": 28
+  },
+  {
+   "day": "2026-09-30",
+   "new_users": 53,
+   "active_users": 831,
+   "drives": 1045,
+   "paywall_views": 195,
+   "purchases": 6,
+   "errors": 35
+  },
+  {
+   "day": "2026-10-01",
+   "new_users": 56,
+   "active_users": 844,
+   "drives": 1213,
+   "paywall_views": 194,
+   "purchases": 6,
+   "errors": 32
+  },
+  {
+   "day": "2026-10-02",
+   "new_users": 39,
+   "active_users": 773,
+   "drives": 1098,
+   "paywall_views": 173,
+   "purchases": 5,
+   "errors": 27
+  },
+  {
+   "day": "2026-10-03",
+   "new_users": 92,
+   "active_users": 1115,
+   "drives": 1756,
+   "paywall_views": 279,
+   "purchases": 6,
+   "errors": 41
+  },
+  {
+   "day": "2026-10-04",
+   "new_users": 84,
+   "active_users": 1052,
+   "drives": 1732,
+   "paywall_views": 230,
+   "purchases": 4,
+   "errors": 45
+  },
+  {
+   "day": "2026-10-05",
+   "new_users": 68,
+   "active_users": 862,
+   "drives": 1155,
+   "paywall_views": 199,
+   "purchases": 6,
+   "errors": 29
+  },
+  {
+   "day": "2026-10-06",
+   "new_users": 80,
+   "active_users": 862,
+   "drives": 1197,
+   "paywall_views": 198,
+   "purchases": 4,
+   "errors": 38
+  },
+  {
+   "day": "2026-10-07",
+   "new_users": 61,
+   "active_users": 893,
+   "drives": 1205,
+   "paywall_views": 204,
+   "purchases": 5,
+   "errors": 39
+  },
+  {
+   "day": "2026-10-08",
+   "new_users": 81,
+   "active_users": 937,
+   "drives": 1327,
+   "paywall_views": 248,
+   "purchases": 8,
+   "errors": 35
+  },
+  {
+   "day": "2026-10-09",
+   "new_users": 88,
+   "active_users": 993,
+   "drives": 1436,
+   "paywall_views": 240,
+   "purchases": 6,
+   "errors": 31
+  },
+  {
+   "day": "2026-10-10",
+   "new_users": 89,
+   "active_users": 1178,
+   "drives": 2029,
+   "paywall_views": 294,
+   "purchases": 9,
+   "errors": 45
+  },
+  {
+   "day": "2026-10-11",
+   "new_users": 106,
+   "active_users": 1149,
+   "drives": 1868,
+   "paywall_views": 294,
+   "purchases": 7,
+   "errors": 45
+  },
+  {
+   "day": "2026-10-12",
+   "new_users": 78,
+   "active_users": 983,
+   "drives": 1263,
+   "paywall_views": 254,
+   "purchases": 9,
+   "errors": 35
+  },
+  {
+   "day": "2026-10-13",
+   "new_users": 81,
+   "active_users": 979,
+   "drives": 1265,
+   "paywall_views": 237,
+   "purchases": 7,
+   "errors": 44
+  },
+  {
+   "day": "2026-10-14",
+   "new_users": 94,
+   "active_users": 958,
+   "drives": 1337,
+   "paywall_views": 258,
+   "purchases": 7,
+   "errors": 47
+  },
+  {
+   "day": "2026-10-15",
+   "new_users": 86,
+   "active_users": 975,
+   "drives": 1369,
+   "paywall_views": 232,
+   "purchases": 5,
+   "errors": 44
+  },
+  {
+   "day": "2026-10-16",
+   "new_users": 77,
+   "active_users": 987,
+   "drives": 1388,
+   "paywall_views": 251,
+   "purchases": 7,
+   "errors": 29
+  }
+ ]
+}
